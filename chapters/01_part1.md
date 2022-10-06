@@ -128,14 +128,130 @@ Most people in most industries don’t do this because the structures are invisi
 
 You don’t need to be or do everything. First, narrow down the possibilities to create a tiny universe with huge possibilities.
 
+--
+
+There seem to be endless possibilities for music, made out of a mere 12 notes. Out of just this, we have created many genres utilising huge numbers of timbres.
+…
+
+But what is surprising is just how small a universe of possibilities we really give ourselves. In most musical contexts, the allowable/acceptable musical notes (pitches / frequencies) and timbres (the particular mix of frequencies) are narrowed right down. I am not dismissing the work of classical composers but the fact is they worked with a relatively narrow set. 
+
+This feels surprising and almost nobody is aware that most of us are living in a subset of the music possibilities. A subset of notes, timbres, timing, dynamics, and many other aspects. Of course, this restriction is exactly what defines a musical style, but even allowing for this the universe of possibilities is narrow.
+
+Most western music uses 12 tones (or even fewer), 4 beats per bar, a relatively simple construction of the verse and chorus. It treats octaves as consonant. It treats the down beat as the emphasis. It keeps the tempo relatively fixed.
+
+Confusingly, when asked what makes some sound “music”, I have repeatedly been given answers like “it has to be musical” which is just a circular. If music has to be musical, but our music utilises a subset of the possibilities of sound, does that mean the sounds outside of our defined little universe of what is musical are absolutely not musical?
+
+No. Sometimes it’s by design, sometimes it’s cultural. [CHECK this - find reference] The timbres of some instruments are altered to fit with the 12 tones we have, which are in turn based on the vibrations of stringed instruments. That is, we reduce the sounds so they fit. This isn’t so bad - this is exactly what music producers do when this mix a band. They will deliberately cut out frequencies from one instrument which overlap with another so they all fit together. But, both practices are reducing the possible sounds.
+
+The sound and feel of this gets embedded in culture which becomes the sound of a generation, which defines a culture which becomes a fact. Which all starts for practical reasons but extends into human myths and culture. 
+
+Why don’t we just open up the possibilities and try new things?
+
+In a sense, it doesn’t matter. We humans have narrowed down the universe of possibilities to something we can work with at global scale. I can listen to music from cultures around the world (who have been infected with the strict tuning of European music) and play along. That’s a powerful glue. 
+
+It also doesn’t matter because this is where we are. 
+
+But there are other reasons - the last of which is the most important.
+
+Firstly, if you were to create new tuning systems and timbres then you have to get the instruments and the players. This is not trivial, although there are a number of people who do this. [More on this - ]
+
+Second, a lot of music is cultural and has cultural cues. Without those there isn’t enough to latch on to. The audience has no frame of reference. 
+
+Most importantly, limitation is freeing. If everybody had to work out a tuning system, time signature convention and timbre preference for themselves then sharing music around the world would be harder. 
+
+There are still a huge number of possibilities, but because the tiny universe of possibilities is enough to wrap our heads around it becomes easier to talk about it.
+
+If you want to create a large market, you need to limit what that market is for. It cannot be open, complex, multifarious. It will have to be frustratingly simple.
+
+This is why when a product, company or political party does well it seems to be for a very simple reason. There will be a million details in getting there, but so often they will be focused on doing almost nothing for almost everybody.
+
+For many creatives (technical, artistic, other), this is annoying. The successes are based on doing less, but this is simply the physics of economics of the situation. If you reduce down the world of possibly things you are going to deal with, it allows you to focus and that allows you to move more rapidly within your little universe.
+
+When asked who their product is for, many people will say “everybody” but this is the same as having an open, complex universe. There are just too many possibilities.
+
+Start by defining a tiny universe - a universe where there is enough scope for difference and exploration that you are not locked into just one thing; but tiny enough so that you are not distracted.
+
+Music, as most people understand it, is a tiny subset of both all possible sounds and all possible “musical” sounds. The problem with defining music is that it becomes a circular reference: music is musical.
+Most western music uses 12 tones, 4 beats per bar and a relatively conservative number of the possibilities those 2 dimensions offer. In our tuning system and with the timbres we tend to use, the octave is consonant. This isn’t universally true - it’s possible to create dissonant octaves by using different types of timbre. 
+Why don’t we? It doesn’t matter. We just don’t.
+Limitation is freeing. There are still a huge number of possibilities, but because the tiny universe of possibilities is enough to wrap our heads around it becomes easier to talk about it.
+If you want to create a large market, you need to limit what that market is for. It cannot be open, complex, multifarious. It will be frustratingly simple.
+When asked who their product is for, many people will say “everybody” but this is the same as having an open, complex universe. There are just too many possibilities.
+Start by defining a tiny universe - a universe where there is enough scope for difference and exploration that you are not locked into just one thing; but tiny enough so that you are not distracted.
+
+
 ## What is normal changes.
 
 We use windows to hide variation in what is normal. Every “norm” is temporary, or might be.
+
+--
+
+IP created a new normal.
+Composers weren’t always important.
+People had to be taught to buy records.
+People had to be taught to stream.
+New forms, formats and products don’t always solve a “user problem” immediately - sometimes we have to teach the person to think differently. We have to change what “normal” looks like.
+This teaches us that normal will change. It happens with generational change, economic change. It happens in reaction to events or trends.
+But it happens. Whatever is normal now will end.
+
 
 ## Noise becomes music.
 
 #4 means that what is noise today becomes music tomorrow.
 
+This is a section in itself because it’s important to point out that what is absolutely not acceptable becomes acceptable.
+
+We have all experienced how the music of our youth is scorned by our grandparent or, if not them then somebody. 
+Many of us know of at least one piece of music or one artist who we or others consider just noise.
+We hear phrases like “noise”, “requires no skill”.
+
+The 20th century is full of examples. From the Rite of Spring to Rock on Roll to Hip Hop. It’s almost not worth the effort of takin a specific example because the general pattern is so reliable:
+
+A new style emerges in some point of the world. It utilises either a different technology, format, timbre or some other aspect which makes it jar with the mainstream styles of part of the population. Often it is associated with a subculture, either one which is actively suppressed (as in the case of Blues and Jazz) or where it’s simply not understood (in the case of experimental classical). 
+
+The mainstream then applies its idea of quality to this style and finds the new style wanting. The criticism which follows is also hardly worth bothering with because it will be things like: it’s not musical; it takes no skill; there is no melody; it’s too simple. This isn’t music, it’s just noise.
+
+Except what always happens is that eventually this “noise” is absorbed into a new mainstream. Free improve is too complicated for mainstream audiences until it appears on a Radiohead album. Or the clicks and pops of early experimental music re-enter the world via Kraftwerk. Or the prepared piano, which sounds like the piano is broken, reenters the world via Aphex Twin.
+
+What was noise became music. And will again.
+
+This is how styles evolve. The noise has to be incubated away from the mainstream because the judgement of the mainstream ears is, by definition, concerned with what the mainstream should sound like.
+
+The same thing happens in all areas of human creativity.
+
+What is a breakthrough product or technology, starts as a toy. Everything from planes to cars to recorded music to the internet to the web to smartphones to whatever you are using now started as a toy. It started out as noise - something which is just playful nonsense .
+
+This implies two important things:
+
+Your judgement is probably wrong, you just don’t yet know how. Whatever your view of the world is, something in the world will be both wrong in your eyes and right in the eyes of an important minority. At some point in the future, their view may influence part of the mainstream and you will then be wrong.
+
+This is so normal that I often wonder why people pass judgement on anything. By definition, whatever you think is wrong/bad/slow/pointless may turn out to be the future.
+
+It also implies that if people are telling you that you are making noise, maybe they are just listening for the wrong kind of music.
+
+
 ## What is normal doesn’t come from the crowd.
 
 We interpret much of history in terms of the winners, the majority and the successes - i.e. what’s liked by the crowd, what’s normal. But this “normal” never starts with the whole crowd.
+
+--
+
+There is a weird irony that what the crowd loves rarely (if ever) came from a crowd. This is true not just of the stars whose music we celebrate but also how we think about our relationship with things.
+
+Buying music is such a normal thing that when we started the transitioned to downloads and streaming, there was endless uproar and and discussion of whether people would appreciate music’s real value if they didn’t have to go to a shop, browse, feel the record in their hands and take it home to put on their shelf. The new generation were missing out on the real value of music. Indeed the oversupply of music - the fact that they could access so much - was surely reducing the value in each piece of music?
+
+Except that it wasn’t always normal to buy music in the first place. 
+
+In his book on Music and Capitalism, Timothy Taylor cites the adverts from the early days of the player-piano which explained why people should buy music at all. And why they shouldn’t play the music themselves. 
+
+It only took a couple of generations for the idea of “my music collection” to become normal, but that idea did not originate spontaneously from the crowd. It first had to be stoked and encouraged from outside.
+
+We know that this idea appears in music itself - an artist will experiment endlessly and eventually hit on an idea. This experimentation might involve the crowd, but it may not necessarily involve using the crowd’s idea of “good”. The artist has to keep themself and their judgement separate from the crowd.
+
+This is at odds with the way that many think about what “good” looks like. They aim only for something that will get favourable responses in an audience survey. They will try to achieve a “net promoter score” which shows that people would recommend this to their friends. This is the science of creativity, but it too easily forgoes the art of creativity. Measuring responses from the crowd may easily create a creative deadend.
+
+The creator’s job is to stand away from the crowd and imagine something completely new. This may be in the material itself, as in the case of composers and performers, or in anyone in the chain of activity, as in the case of advertisers trying to teach us that buying recorded music is a thing we might enjoy.
+
+Teaching people to buy music
+History is a history of a few people distilling a lot of ideas (This is something else)
+The art (vs science) of creating new things. We are being taught to create everything with science - testing etc. But sometimes you need to start with art; a big leap sometimes need the art of ignoring a lot of things.
