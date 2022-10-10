@@ -1,15 +1,19 @@
-\newpage
-
 # Music Lessons - on one page
-
-Original notes: https://docs.google.com/document/d/1TPJFR2hoPn6Xap1HWQJkdBdtmtOsqlTvTY5GVojul2U/edit#
-
 
 Music is a strange microcosm of everything human: transient, cultural, technological, emotional, organised, chaotic. The turn of this century saw music’s industry utterly disrupted. There are obvious lessons but, when you dig you find far more lessons.
 
 Why does this matter?
 
 For multiple reasons, we are living at a time when we need more, different, bigger and better ideas. We have achieved a lot through industrialisation, capitalism, communications and all the associated progress. But we are, at the same time, awash with an endless supply of pointless industries and activities. Social media connected us but they sold our attention. The bulk of our political life is spent discussing, not the nuance of an idea or how to progress it but some vague, partisan or personality issue which hardly makes an impact on the problems we ought to be solving. We have entire industries designed to trick people into parting with their money for things which will bring no long term value to humanity, solve no problems and arguably will just reinforce the shallow, cultural deadends.
+
+IN THIS BOOK YOU WILL LEARN:
+
+- Understand the ways that we see the world... which trick us into thinking everything is stable
+- Where value comes from; and where is can shift to
+- The mistakes people make when seeing how their industry might look in the future
+- New ways of looking at how industries are affected by disruption
+
+--
 
 Despite nearly 30 years of information technology progress, we spend a gigantic portion of our time copying and pasting information from one system we hate into another. Our productivity may not have improved according to pre-internet measures [get/check these], so perhaps the productivity is buried in new forms such as our ability to create and share information for free and instantly? Maybe, but we all know of the huge increase in noise and nonsense these technologies have created.
 
@@ -23,6 +27,11 @@ I am also not going to put any artist, style, school of thought or movement on a
 
 Instead, we can use music, which is a peculiarly human phenomenon around which we have built various cultures and industries as a microcosm to understand how to see ourselves as humans; how to see ourselves before, during and after major change; and how to get out of the mental models which lock us in.
 [This all needs redrafting - I’m using too many phrases which make sense to me]
+
+--
+
+The disruption of music has also come at the start of a century which promises yet more disruption, be it through changes of geopolitical power, migration spurred by climate, war or the hope of a better life. And whatever else comes along. Napster's disruption of the music industry was strangely prescient. 
+--
 
 How might this help the bigger problems?
 

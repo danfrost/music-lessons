@@ -9,8 +9,8 @@ date >> chapters/00a_builddate.md
 echo "**" >> chapters/00a_builddate.md
 cat ./chapters/00a_builddate.md >> build/book.md
 echo '\\newpage ** _Blank page_ **' >> build/book.md
-cat ./chapters/00b_dedication.md >> build/book.md
-echo '\\newpage ** _Blank page_ **' >> build/book.md
+#cat ./chapters/00b_dedication.md >> build/book.md
+#echo '\\newpage ** _Blank page_ **' >> build/book.md
 
 cat ./chapters/00c_onOnePage.md >> build/book.md
 echo '\\newpage ** _Blank page_ **' >> build/book.md

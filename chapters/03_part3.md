@@ -1,3 +1,4 @@
+
 # PART 3: THE MEDIUM
 
 ## You are not your medium. 

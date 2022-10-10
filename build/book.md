@@ -12,34 +12,25 @@ header-includes: |
 fontsize: 9pt
 ---
 **BUILD DATE: 
-Thu  6 Oct 2022 21:29:29 BST
+Sun  9 Oct 2022 10:27:40 BST
 **
 \newpage ** _Blank page_ **
-\newpage
-
-# Not my own work
-
-## Thanks & dedication
-
-...
-
-
-## Thanks to 
-...
-
-\newpage ** _Blank page_ **
-\newpage
-
 # Music Lessons - on one page
-
-Original notes: https://docs.google.com/document/d/1TPJFR2hoPn6Xap1HWQJkdBdtmtOsqlTvTY5GVojul2U/edit#
-
 
 Music is a strange microcosm of everything human: transient, cultural, technological, emotional, organised, chaotic. The turn of this century saw music’s industry utterly disrupted. There are obvious lessons but, when you dig you find far more lessons.
 
 Why does this matter?
 
 For multiple reasons, we are living at a time when we need more, different, bigger and better ideas. We have achieved a lot through industrialisation, capitalism, communications and all the associated progress. But we are, at the same time, awash with an endless supply of pointless industries and activities. Social media connected us but they sold our attention. The bulk of our political life is spent discussing, not the nuance of an idea or how to progress it but some vague, partisan or personality issue which hardly makes an impact on the problems we ought to be solving. We have entire industries designed to trick people into parting with their money for things which will bring no long term value to humanity, solve no problems and arguably will just reinforce the shallow, cultural deadends.
+
+IN THIS BOOK YOU WILL LEARN:
+
+- Understand the ways that we see the world... which trick us into thinking everything is stable
+- Where value comes from; and where is can shift to
+- The mistakes people make when seeing how their industry might look in the future
+- New ways of looking at how industries are affected by disruption
+
+--
 
 Despite nearly 30 years of information technology progress, we spend a gigantic portion of our time copying and pasting information from one system we hate into another. Our productivity may not have improved according to pre-internet measures [get/check these], so perhaps the productivity is buried in new forms such as our ability to create and share information for free and instantly? Maybe, but we all know of the huge increase in noise and nonsense these technologies have created.
 
@@ -53,6 +44,11 @@ I am also not going to put any artist, style, school of thought or movement on a
 
 Instead, we can use music, which is a peculiarly human phenomenon around which we have built various cultures and industries as a microcosm to understand how to see ourselves as humans; how to see ourselves before, during and after major change; and how to get out of the mental models which lock us in.
 [This all needs redrafting - I’m using too many phrases which make sense to me]
+
+--
+
+The disruption of music has also come at the start of a century which promises yet more disruption, be it through changes of geopolitical power, migration spurred by climate, war or the hope of a better life. And whatever else comes along. Napster's disruption of the music industry was strangely prescient. 
+--
 
 How might this help the bigger problems?
 
@@ -334,6 +330,7 @@ The creator’s job is to stand away from the crowd and imagine something comple
 Teaching people to buy music
 History is a history of a few people distilling a lot of ideas (This is something else)
 The art (vs science) of creating new things. We are being taught to create everything with science - testing etc. But sometimes you need to start with art; a big leap sometimes need the art of ignoring a lot of things.\newpage ** _Blank page_ **
+
 # PART 2: FLOWS AND NETWORKS
 
 https://scholar.google.co.uk/scholar?q=flows+of+value&hl=en&as_sdt=0&as_vis=1&oi=scholart
@@ -424,6 +421,7 @@ In reality, all the rates of change are important.
 
 And lastly, some rates of change depend on people leaving the market either through retirement or death.
 \newpage ** _Blank page_ **
+
 # PART 3: THE MEDIUM
 
 ## You are not your medium. 
@@ -494,6 +492,7 @@ When a new medium emerges, the formats which follow it are not a given but are o
 ## The value you can capture changes.
 
 Record sales -> youTube\newpage ** _Blank page_ **
+
 # PART 4: HEROS
 
 ## Survivor bias.

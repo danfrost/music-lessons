@@ -1,12 +1,5 @@
 \newpage
 
-# Not my own work
+# ...
 
-## Thanks & dedication
-
-...
-
-
-## Thanks to 
-...
-
+Thanks & dedication will go here
