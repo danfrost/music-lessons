@@ -4,8 +4,8 @@
 
 As per Sam A's suggestion, distil what I am saying onto one page. Reread this often.
 
-[ ] Draft on one page
-[ ] Get feedback from people - post this on LT/twitter/TT
+[x] Draft on one page
+[#NEXT] Get feedback from people - post this on LT/twitter/TT
 [ ] Update from feedback
 
 ## PART Zero
@@ -16,7 +16,7 @@ I need a section which gives the reason for wanting to read this. I'll revisit t
 This can also be used for the landing page.
 
 Tasks:
-[ ] Find recent historical examples where the ideas in this book would be useful.
+[#NEXT] Find recent historical examples where the ideas in this book would be useful.
 [ ] Find examples in the future where these examples would be useful
 [ ] Draft this chapter
 [ ] Share on social - post to blog. Share on LT/TT/twitter
@@ -27,16 +27,27 @@ Tasks:
 
 ## PART 1: WINDOWS & STRUCTURES
 
+### Part 1.1  - Windows hide the truth
+
 Questions I have (to share on social):
-[ ]
+[ ] What are systematic ways we have of controlling / changing the truth?
+[ ] What myths are true in the short term but wrong in the long term?
+[ ] What systems (industries) feel eternal / fundamental but aren't that old?
+[ ] 
 
 
+https://www.sciencedirect.com/science/article/abs/pii/S0305748896900444
+
+
+Tasks:
 [ ] Write blog posts of my thoughts on this
-
 [ ] Start with the typical picture of the music industry - find the main texts on music industry history. These will probably start around Queen Anne / copyright or 1900s.
 [ ] Has anyone else made my point?
 [ ] I think there's another name for 'windows'. Framing? Selective with data? Research this. This should lead to some other examples.
 [ ] 
+
+
+### Part 1.X 
 
 1.1 Windowshidethetruth........................ 7 
 1.2 Structurescreatevalue. ....................... 10 
