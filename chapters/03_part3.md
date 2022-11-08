@@ -22,6 +22,10 @@ You are not your medium. Whatever skills, medium, format you work in today is a 
 
 The question for you is whether you have tied your ego and your attention too closely to one medium rather than the underlying value.
 
+
+***ADD: Groupthink fits in here. the group over-identifies with the medium.
+
+
 ## The new medium is never a copy of the old.
 
 The nuances of a new medium are not a copy of the old. Thinking and acting as though this is the case means you miss out on new value, new ways of delighting people or just miss the point of the new medium altogether.

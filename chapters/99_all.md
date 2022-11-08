@@ -38,6 +38,10 @@ All the effort we put into defining what “it” is can be undone overnight
 Being right matters much less than doing
 There can be diminishing returns to knowledge
 
+See: https://twitter.com/jasoncwarner/status/1583575035780173824?s=20&t=18un1RG_mgTnL7YByQbosA
+
+"Demos > Memos"
+
 ## Discussion the industry is part of the industry.
 Discussion is an important part of the industry
 It creates and sustains interest

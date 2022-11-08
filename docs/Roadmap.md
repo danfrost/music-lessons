@@ -5,13 +5,47 @@
 As per Sam A's suggestion, distil what I am saying onto one page. Reread this often.
 
 [x] Draft on one page
+[x] Ask for fedback from people - post this on LT/twitter/TT
+[ ] Finalise the draft for sharing (_Should have done this before_)
+https://docs.google.com/document/d/14tPVthQUGIta-CVrWUIFhPPWVLI6Jnr3XoBFVeNW0O4/edit#
+
 [#NEXT] Get feedback from people - post this on LT/twitter/TT
+    LI
+    Twitter
+    FB
+    Slack: Aquired
+    Slack: The Edtech Club
+
+Beta readers:
+
+1. Matt Hook (Facebook)
+2. Tom Walters (Facebook)
+3. Tom Booth (Facebook)
+3. El (Facebook)
+
+4. Tim Drake (Linked In)
+5. Joanna Goodrick (Linked In)
+
+6. Lino (via aquired slack)
+
+7. Jason DeRoner (via Edtech slack)
+8. Ayomide Aremu-Cole (via aquired slack)
+
+**try not to miss any**
+
+Tabi: I have a friend who does lots of things about open resources and communication specialist type stuff (don't fully understand it all) but he might be useful for your book thing. He is on twitter Sam moore. I'll find a link
+Tabi
+Tabi Tha
+Take a look at Samuel Moore (@samoore_): https://twitter.com/samoore_?t=yNxC5fA4Pmry_HX_5h3vtg&s=07
+
+[ ] Wait for feedback (give it a week)
+[ ] Plan how I'm going to get feedback as I go - update NI social 
+    plan to focus on this (remove any other fluff)
 [ ] Update from feedback
 
 ## PART Zero
 
 I need a section which gives the reason for wanting to read this. I'll revisit this later. 
-
 
 This can also be used for the landing page.
 
