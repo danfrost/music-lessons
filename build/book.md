@@ -12,25 +12,281 @@ header-includes: |
 fontsize: 9pt
 ---
 **BUILD DATE: 
-Sun  9 Oct 2022 10:27:40 BST
+Wed  9 Nov 2022 23:16:31 GMT
 **
+\newpage ** _Blank page_ **
+
+# Chapter Zero
+
+_This draft is for feedback - I just need coherent words and some good examples to show that this disruption thing happens again and again._
+
+Plan:
+1. Music example of disruption (briefly)
+2. Non-music examlpes of disruption
+3. Temper the argument - not everything has changed, but sometimes it does
+4. We can use music as a lens because what we see in the arguments for/against disruption of this industry and what we see in the human and market behaviours (I think) applies to many other industries.
+
+What is industry disruption? Is it simply the how we replace computers with smartphones, or (for those who remember) how we moved from records to CDs and (briefly) to minidisk? Or how we moved from bookshops to Amazon, or record shops and then internet piracy to Spotify. Isn't it what explains why Kodak went out of business when digital cameras were introduced? And isn't disruption why everyone is now having to go through digital transformation programs and why every company insists on having an app?
+
+These are the surface level foam of disruption. They are what we see and what we talk about. They are often what gets talked about in the press because the fuller story of disruption is much more confusing, less obvious but, to my mind, far more exciting and for more about the humans involved.
+
+Disruption is probably the wrong word to use because it has been co-opted by the tech-bro, capitalist cliche. I have nothing as such against tech-bros or capitalists, but they do tend to use disruption as code for the future, what's good and what should be funded or supported. Again, this is overly simplistic.
+
+But I don't have a better word, so I am going to use disruption but before we get into looking at how we can use music as a lens to understand it, we need to look at different aspects of industry, technological and social disruption. We need to look broadly because the patterns of cause and response are easier to understand with more examples and more ways of looking at the phenomenon.
+
+## The plan for this chapter
+
+In this Chapter, we need to start by looking over one of the canonical examples of disruption: how the music industry was disrupted by the internet. We will pick over the bones of this example over the course of this book, but we need this to set the scene for us.
+
+In order to understand this classic example, we need to bring in the innovator's dilemma - a brilliant way of reading how companies and industries evolve. But we then need to broaden out from this narrow (in a good way) definition because, as I think you'll find if we have a wider frame of reference and relax our definition we can start to see similar things happening throughout history and throughout many industries.
+
+This achieves something which I've come to think of as "seeing and labelling blue". The ancient greeks didn't have a word for blue even though they obviously had a lot of blue above them all the time - the sky. They used many different words to desribe the things that were blue but had no need for the word or concept itself. Only later ((Get the ref when)) was the idea of blue needed and the label created. My use of this is to squint at the world, observing lots of samples, case studies and from many different angles. After a while you start to see patterns. After a while you "see blue".
+
+This can sound utterly wishy washy nonsense. I think it's the opposite. This is how we humans make progress: we squint at the world and realise that what we are looking at looks like something we've looked at before. We roll the ideas, the form and the behaviour around in our mind creating a mental model of this thing, whatever it is. At some point, either quickly or after years or even many generations we give it a label which means it's a concept we talk about.
+
+My view is that we talk about some aspects of industry, company and social/economic disruption but we haven't yet built up the intuitions for how a lot of change comes about. We often seem confused or upset that things aren't like they used to be, even though this not-like-used-to-be-ness is exactly what the world should be doing all the time.
+
+So we start by playing with examples to get our mind in gear. The first examples are all on the disruption-heavy side - the tech-bro, capitalist, everything-must-change-now side. These are valid but they are biased so we then temper the argument by showing what _doesn't_ change in an attempt to protect us from succoming to the idea that everything is changing, everything is going to be disrupted all the time and there is no stability. There _is_ stability, often caused by slower rates of change which provide a kind of stability.
+
+Seeing disruption in the world from many different angles and then tempering this potentially franetic view of the world with a bit of stability should, I hope, give a picture of the kinds of phenomena that we are trying to understand. From this selection of samples, observations, ((there's a term - something from geology??)) we should have a sense of the things we want to get to grips with. 
+
+All of this will, I hope, give us the sense of the kinds of things we should have a feel for. It should feel like we've just stepped on a boat and started to feel the way that it moves. If I describe the way the boat tips or the way it bounces over the waves, you know what I'm referring to. If I talk about the jolt as the boat turns (or "tacks" in the sailing jargon), you know the force you feel as you're pulled towards or away from your seat on the boat.
+
+As we move into the last section of this chapter, we should have a shared idea of the things in disruption we're looking for. Some examples - We want to understand why one technology replaces another and why it looks like it'll never happen until it's obvious why it did. We want to understand how a new wave or new use of technology changes how we see certain human activities - computers made manual arithmetic a less important workplace skill; what might AI generated content do to workplace skills? The purpose of human activity changes, but why and how?
+
+We will also be trying to understand why the thing that wins doesn't seem to have all the possible features or complexity that it could. Why can a change in the flow ((hasn't been explained)) of value change more than just that flow - why and how are their knock-on effects? How come things have economic value and then they don't? Or they don't have economic value and then they do? What can we or should we be measuring anyway?
+
+We will end this chapter with our plan for using music as a lens for understanding disruption in the world.
+
+## --What follows are section outlines for the rest of this chapter--
+
+## Music Industry, Napster and Spotify.
+
+**#NEXT write the rest of the outline so it's understandable.**
+**Do a bit of research for each - don't need lots though**
+
+
+Around the turn of the century, the revenue of the music industry was being eaten by services like Napster and Pirate Bay. 
+The industry didn't really win though - the incomes of lots of musicians has been destroyed. Spotify, the dominant global player in music does not necessarily act in the best interests of the musicians and music industry, but it did win. This pattern plays out again and again; a shift from one industry and one set of interests, to another industry and another set of interests.
+
+
+## The innovator's dilemma
+
+Introduce the idea here.
+
+This is talked about a lot, but most writing about this is either academic or quite theoretical. In fact, being practical about the innovator's dilemma is extremely hard.
+
+
+## The key question
+
+Here's a question: Why was the music industry disrupted?
+
+What alternatives could have played out and who would have been responsible for those?
+
+This is either a very simple question or very complex. It's usually answered by saying that a disruptive technology came along (except tapes disrupted CDs, which disrupted records - so that doesn't quite cut it). Or that the industry had an entrenched model (except it was used to making music free on radio in return for royalties, so that doesn't quite add up either). **Get a few more examples**.
+
+As you dig into why an industry is disrupted you go through layers and layers of market and human behaviour. Entrenched business models, lack of awareness of new ways of doing things, people identifying with the craft instead of the outcome, lack of access to new kinds of customers. So on, down and down.
+
+
+## Non-music examples of disruption
+
+*Boats & Roads*
+(Kinsale)
+
+*Amazon and publishers.*
+(Look up the various legal cases)
+
+*Mining.*
+Various generations of mining.
+
+*Banking, Challenger banks & Crypto // sending money*
+[Get Bank 4.0. Interview the author.]
+
+Crypto. Start with the promise of disruption. It requires imaginging new flows of value - new ways of doing things. It also requires building those ways and all the machinery and culture around it.
+
+_But_, the banking system still controls the flow of value. the value isn't purely money - it's also trust.
+
+Progression of sending money
+Barter
+Gold
+Tablets / tokens
+East India company - way of doing transactions on paper (which 'disrupts' the need for movement of hard cash)
+PayPal
+Crypto
+
+These 1-dimensional timelines can be unsatisfactory. Perhaps each new method / innovation is sequential but not a straight improvment - it's more about trade offs.
+
+
+*Smartphone vs laptop/desktops*
+Apple created a new place for new value. 
+
+Use the picture of all the things which ended upon on the smartphone. 
+
+*Slave trade*
+Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
+
+*Disruption and evolution of information / communication*
+(This is not broadcast communication - this is 2-way / discussion etc)
+Travelling
+Letters / postal service
+Telegraph
+Landline phone
+Mobile phone
+Computer - fixed internet
+Smartphone
+
+How do we measure the "improvements"? Cost, speed, density of information / bandwidth, network size.
+
+Measuring improvements quickly leads to the intuition that each wave of disruption is not necessarily an improvement. We know this because we have in person meetings when we need to convey more but email when the information is (perhaps) more routine. 
+
+*AI's impact*
+
+(Find someone else's timeline of this)
+
+Abacus
+Clockwork
+...
+Value
+Mainframes
+Programming (expert systems)
+Narrow AI
+...
+General AI
+
+Again, how do we measure the improvement in calculation?
+GFLOPS
+£s/GFLOPS
+(£s/GFLOPS) / average page (to give a sense of how much cheaper than a human the computer system is?)
+
+Or do we measure the impact on the things it replaces? E.g. we don't have typing pools anymore.
+
+*Layers of information platforms/broadcast media*
+Theatre
+Email lists
+Blogs
+Social - sub-groups
+YouTube
+TikTok
+
+As we see progression of the information platforms, we see that new nuances are important. TikTok is, in effect the same as YouTube but the arrangement of the information within the medium (video on mobile device) brings new nuances. These naunces are easy to ignore if you're being disrupted - it all looks like same: video on you own website, on Vimeo, on YouTube, or TikTok is all video. Except that the progression introduces nuance.
+
+*Education*
+
+Community
+(Get a bit of history on this)
+Industrial
+..
+DuoLingo
+
+The purpose of education. This means that the important value the world finds in education shifts. What we see in education (like a lot of slower moving industries) is a dogma which persists long after the shift in underlying desired value has happened. People want something new from education but education (the industry) doesn't understand what this is.
+
+Education is also subject to non-disruptable limits: the key point of education is to alter the brains of humans. If there are physical/biological limits to this, those will dictate the possible rate of change.
+
+*Shipping / trade*
+Changes in trade routes - as new value is discovered. 
+
+In a way, shipping might be a better way of viewing disruption because it's physical. For our purposes, we can see all human endevour as some form of arbitrage and creation - finding value in one place, adding something to it and selling it for more value elsewhere.
+
+*Companies which have been disrupted*
+
+_Look into each of these_
+
+Pan Am
+Borders
+Pets.com
+Tower Records
+General motors
+Kodak
+
+
+*High street*
+
+Travel agents (vs AirBnB)
+High st shops (get stats on the shift and see how much is / has really shifted. Also get Ben Evan's numbers on how much online has really eaten vs creating.)
+
+
+*Other forms of disruption - Covid*
+
+These forms of disruption change the flow of value
+
+Increased time online
+massive decrease in foot fall. Thisis very easy to visualise but it's a direct example of "flows of value" <-- i need to introduce this idea without using that phrase too early.
+
+
+
+
+
+## Future:
+
+AI content creation - writing, art. (There will also be music.)
+This questions what it means to be a human, but that question is directly related to questions like "what does it mean to listen to music". 
+
+
+Driverless cars
+
+Drone delivery
+
+
+
+## Temper the argument
+
+Things that can't be disrupted or don't create new, long 
+
+Tullips - no real long term value
+The frozen water trade - wasted effort
+Gamestop = no underlying value
+Education = the hardest part of education is the human brain
+
+
+Disruption does not always mean reducing overall value.
+E.g. Uber - more cabs after it was introduced.
+Music - (get a stat on this). More music is listened to now.
+
+
+Disruption doesn't always mean better things for everyone. We have grown expert at arbitrage with positive outcomes for one set of people but very negative outcomes for others. Cheap clothes, technology, energy all have impacts on other people.
+
+
+Also, it's not true that everything is changing faster than ever. [Get some data for this]. Some things are changing rapidly when viewed from a certain light: the changes in how people consume content are changing almost by the week, with content/social platforms becoming every more expert in keeping our attention. However, the way I fix the pointing (that's the cement between the bricks) on the front of my house is pretty much what it would have been 100 years ago when the house was built, or 500 or 1000 years ago.
+
+There are strata of change. The top layer changes rapidly, the lower layers change slowly.
+
+Old vs new value. New value is not necessarily better or worse than old. A lot of time is spent by incumbents explaining why we need to protect our institutions or by disruptors explaining that we need to embrace the future. I am firmly in neither camp. 
+
+
+New / disruptive value doesn't mean that fundamental good business practice disappears. The Dot Com boom, which saw valuations detacted from reality or the Tullip mania [of the XXXX century] show that we lose track of reality. We are in a closed system - finite resources, finite time and a biological need to eat, socialise and provide for ourselves. This means that, while you can borrow from the future you do have to pay it back.
+
+
+
+## Using Music as a lens
+
+Throughout this book, we will see examples from many industries but with each phenomenon, music will be our starting point. 
 \newpage ** _Blank page_ **
 # Music Lessons - on one page
 
-Music is a strange microcosm of everything human: transient, cultural, technological, emotional, organised, chaotic. The turn of this century saw music’s industry utterly disrupted. There are obvious lessons but, when you dig you find far more lessons.
+Hello! I'm looking for some feedback on a book idea I've been working on for a while. It looks at how the disruption to the music industry is a lense through which we can understand the disruption which will happen over the rest of this century. It's not what you'd expect - the history goes back further, the technology goes wider and the psychology (possibly biology) goes deeper. I'm looking for some feedback on a 2-3 page summary.
+
+Message me if you can share a bit of time to give some feedback. 
+
+Thank you!
+
+**
+
+See draft here:
+https://docs.google.com/document/d/14tPVthQUGIta-CVrWUIFhPPWVLI6Jnr3XoBFVeNW0O4/edit#
+
+**
+
+# Summary
+
+Music is a strange microcosm of everything human: transient, cultural, technological, emotional, organised, chaotic. The turn of this century saw the industry we think of as music utterly disrupted, all but destroyed. While there are obvious lessons, it turns out that if you dig deeper you find far more lessons.
+
+We learn that how we frame something's history dictates how we see its future. Normal is both not average and not static. The flow of value changes over time, but not simply to a new version of an old thing - sometimes new types of value emerge. How you think about value determines whether you see progress or decline. But, regardless of your view, things keep changing.
+
+I could have written this about many industries from food to commodities, fashion t art, literature to sports. My reason for using music as a lense through which to view disruption, innovation and change is because I graduated in music around the time the internet started eating away at the music industry. This led me to research the economic history of music, which has led me back here - to reflect on how the disruptions, choas, unfairness, destruction and creation are all normal, mundane and somewhat poetic. And that the ideas from this industry might help us think about other industries.
 
 Why does this matter?
 
-For multiple reasons, we are living at a time when we need more, different, bigger and better ideas. We have achieved a lot through industrialisation, capitalism, communications and all the associated progress. But we are, at the same time, awash with an endless supply of pointless industries and activities. Social media connected us but they sold our attention. The bulk of our political life is spent discussing, not the nuance of an idea or how to progress it but some vague, partisan or personality issue which hardly makes an impact on the problems we ought to be solving. We have entire industries designed to trick people into parting with their money for things which will bring no long term value to humanity, solve no problems and arguably will just reinforce the shallow, cultural deadends.
-
-IN THIS BOOK YOU WILL LEARN:
-
-- Understand the ways that we see the world... which trick us into thinking everything is stable
-- Where value comes from; and where is can shift to
-- The mistakes people make when seeing how their industry might look in the future
-- New ways of looking at how industries are affected by disruption
-
---
+We are living at a time when we need more, different, bigger and better ideas. We have achieved a lot through industrialisation, capitalism, communications and all the associated progress but we are, at the same time, awash with an endless supply of pointless industries and activities. Social media connected us but then they sold our attention. Our political life is spent discussing, not the nuance of an idea or how to progress it but some vague, partisan or personality issue which hardly makes an dent in the problems we ought to be solving. We have entire industries designed to trick people into parting with their money for things which will bring no long term value to humanity, solve no problems and arguably will just reinforce the shallow, cultural deadends.
 
 Despite nearly 30 years of information technology progress, we spend a gigantic portion of our time copying and pasting information from one system we hate into another. Our productivity may not have improved according to pre-internet measures [get/check these], so perhaps the productivity is buried in new forms such as our ability to create and share information for free and instantly? Maybe, but we all know of the huge increase in noise and nonsense these technologies have created.
 
@@ -38,40 +294,132 @@ How do we get out of the societal and commercial rut? Where do we look for ideas
 
 Everything new requires fusing together material from multiple places. From photosynthesis, which fuses [photons and ??] to create…, to [find another example], the fundamental activity of creativity is bringing unlikely ideas together. All breakthroughs in human activity require fusing ideas together to create something new. 
 
-What I bring is exactly that: a fusing of unlikely ideas in a way which, I hope, sparks some new ways of looking at the rut we're in. My offering is an unusual study of music.
+What I bring is exactly that: a fusing of unlikely ideas in a way which, I hope, sparks some new ways of looking at the rut we're in. My offering is an unusual study of music, in which I personally find huge richness of ideas.
+
+This is not, though, an endless sycophantic blurb about my top 10 western male composers. This is part of the problem - even the way we tend to study the history of music is typical of the way we approach ideas. We think of it as a narrow frame of reference.
 
 I am also not going to put any artist, style, school of thought or movement on a pedestal as this takes us down a dangerous alley of thought which ends either in confirmation bias, praising of geniuses or giving up. I am also not going to present you with biographies of famous composers, because you will only end up looking for the same lessons - confirmation bias of what you want to hear.
 
-Instead, we can use music, which is a peculiarly human phenomenon around which we have built various cultures and industries as a microcosm to understand how to see ourselves as humans; how to see ourselves before, during and after major change; and how to get out of the mental models which lock us in.
-[This all needs redrafting - I’m using too many phrases which make sense to me]
+Instead, we can use music, this peculiar human phenomenon around which we have built various cultures and industries, as a microcosm to understand how to see ourselves as humans; how to see ourselves before, during and after major change; and how to get out of the mental models which lock us in.
 
---
+Studying music in this way is also timely. Music, in a way, set the scene for our century.
 
-The disruption of music has also come at the start of a century which promises yet more disruption, be it through changes of geopolitical power, migration spurred by climate, war or the hope of a better life. And whatever else comes along. Napster's disruption of the music industry was strangely prescient. 
---
+The disruption of music come at the start of a century which promises yet more disruption, be it through changes of geopolitical power, migration spurred by climate, war or the hope of a better life; or through technological change, financial shifts in power or financial innovations which may untie us from institutions or tie us to them in stronger ways.
+
+Napster's disruption of the music industry was strangely prescient, demonstrating what happens when an industry and a culture think that they understand their value.
 
 How might this help the bigger problems?
 
-We humans are too easily locked into ways of thinking through language, culture and convention. We forget that everything around us which was created by a human was created by a human like us. Especially in the west, we have a hierarchical idea of human creativity where those who make are at the top and those who consume are underneath and must follow.
+We humans are too easily locked into ways of thinking through language, culture and convention. We forget that everything around us which was created by a human was created by a human like us. We have a hierarchical idea of human creativity where those who make are at the top and those who consume are underneath and must follow. We need to think better of ourselves.
 
 If we are going to make the big leaps in industry, politics, culture and any other area, we need to be able to identify what of the current world is real, what is made up by humans, how to identify different ways of seeing things/thinking about things and where the new ideas come from.
 
-To close this opening, I have been accidentally researching the economics history of music since the turn of the century. The ideas which come from some unusual areas of research, such as the philosophy of the concept of a music work have, for me, unlocked completely different ways of seeing the world. 
+There is a problem, though. A reason why you'll think this is all utter nonsense.
 
-=Add in
-Another reason why I feel compelled to write this is that in professional life we are too grown up. Too sensible. Too professional. We narrow what we talk about, ruling out anything which isn’t part of the culture or purpose of the business. All play, exploration and childlike trivialities are not allowed. 
+In professional life we are too grown up. Too sensible. Too professional. We narrow what we talk about, ruling out anything which isn’t part of the business or the culture. There is work and there is play. There is learning, which is where someone else intructs you and then there is doing, which you can get paid for.
 
-Yet, as we’ll see repeatedly throughout, it’s these trivialities where new ideas are found. We need a fresh injection of ideas all the time otherwise we become stale and pointless. These ideas do not come from your favourite business networking site or business magazine, but unlikely places. By definition, they have to to.
+What nonsense. All human progression is made through a confusing, sometimes unhealthy mix of what we are taught combined with rambling walks through mistakes, disasters, sketching, playing and, sometimes progress. Playful does not mean wasteful - it means observing an idea and seeing what emerges. Playful is looking at something you notice every day and wondering if there's something new about it.
 
-So my other reason for writing this is to break the patterns of thinking, introduce a new and potentially confusing idea. ((What Khurshed called a deliberate confusion **get the quote *)) And with that, give you a new way of looking at whatever you need to be doing.
-=/
+For many serious professionals, this book would be better left on the bookshelf. Walk away. Bank to the job (which someone else invented). Stick to what the world knows. Don't suspend disbelief. Everything is fine.
 
-What follows are XNUMBERX lessons taken from different ways of looking at music - as an industry, a practice, a culture. These lessons fall into:
+If you aren't a serious professional (and I hope you're not), let's play with some trivial ideas. It’s these trivialities where new ideas are found. We need a fresh injection of ideas all the time otherwise we become stale and pointless. These ideas do not come from your favourite business networking site or business magazine, but unlikely places. By definition, they have to to.
 
-_The structures we created; flows and networks; the medum; ... etc ... list the sections._
+So my other reason for writing this is to break the patterns of thinking, introduce a new and potentially confusing idea. 
 
 These ideas have lived almost exclusively in my notebooks for years only to come out when I'm trying to solve a particular strategy problem or understand why something in the world has happened. As with so many ideas, either there is something useful there or they are the ravings and scribblings of someone who has spent too long with their own thoughts. I leave that judgement to you.
 
+# CONTENTS
+
+_Below are the chapters I have planned. Each is an unusual observation of music and how it might make is see things differently. Each will have stories, examples and ways of translating this into practice._
+
+## PART 1: WINDOWS & STRUCTURES
+
+1. Windows hide the truth. We narrow our field of view either by time, geography or some other factor to suit the judgement we want. 
+
+2. Structures create value. Without structures, there is infinite possibility but no language and no way of creating any scale.
+
+3. A tiny universe with huge possibilities. You don’t need to be or do everything. First, narrow down the possibilities to create a tiny universe with huge possibilities.
+
+4. What is normal changes. We use windows to hide variation in what is normal. Every “norm” is temporary, or might be.
+
+5. Noise becomes music. What is noise to one group is interesting to another and, given a bit of attention becomes music to yet another group. This happens in everything from music to devices. The trinkets and toys of weekend nerds somehow become nearly viable and then, out of nowhere, inevitable. The lesson is to listen to the noise.
+
+6. What is normal doesn’t come from the crowd. We interpret much of history in terms of the winners, the majority and the successes - i.e. what’s liked by the crowd, what’s normal. But this “normal” never starts with the whole crowd. But what's normal now probably didn't start in the crowd - it probably started with crazy tinkering. The future probably isn't in the crowd.
+
+# PART 2: FLOWS AND NETWORKS
+
+1. Flows of value (not necessarily money). Everything should be understood in terms of flows of value before it’s understood in terms of money. Disruption is simply changes in flow. Most people don’t look for the flows in value they look for flows in money.
+
+2. Networks have to start somewhere. Networks create value but we only are only aware of the end result - the networks we use every day. Starting a network is extremely hard, but shouldn’t be ignored. Networks will trump almost all other flows of value.
+
+3. The funding model will change. The person who pays will change and the priorities will change. The value will need to change with it. The artefact might look the same, but because the funding model changes, the nature of the value changes with it.
+
+4. Rates of change matter. Things don’t change as often or as rarely as you think. As the flows, networks and funding change it’s easy to focus on the short term rates of change but there are always many strata of change. 
+
+## PART 3: THE MEDIUM
+
+1. You are not your medium. Every industry over-identifies with the specific artefact it makes, to the extent that it creates identity and culture which defines the value as the medium. Then something happens, as it always does and the medium changes. 
+
+2. The new medium is never a copy of the old. Each medium is better and worse than what came before, but it's never a copy. The mistake is carrying over your ideas of value, economics and business into the new.
+
+3. The format of the new medium emerges. Film was not just theatre on screen. Streaming music is not just CDs on demand. The format of each medium affects what the value can and (economically) music be. This happens across every medium and every industry.
+
+4. The value you can capture changes. New technology doesn't mean making things more efficient - tapes were not more efficient records, they increased the available listening time.
+
+## PART 4: HEROS
+
+1. Survivor bias. You only know about the winners which means you don't know if you're behaving like a loser.
+
+Example (of the not-survivor bias): The Lost Flute, Tcherepnin
+I can't find a recording of it. And it pre-dates "His Symphony No. 1 (1927) is remarkable for including the first symphonic movement ever written completely for unpitched percussion; this preceded by four years Edgard Varèse's Ionisation of 1931"
+
+2. There isn’t necessarily a canon or grand narrative. If you only know about the winners, and the winners stole from the losers then you are missing a huge chunk of history. Most of what most of us do is that bit.
+
+3. Superstar economics; normal disruption vs exponential distribution. We think success is distributed normally, but it's not and this makes us confused about why one things succeeds and another fails.
+
+4. Short term and long term performance don’t correlate. The heros of the short term won't necessarily carry over into the long. The big names will eventually shrink. 
+
+5. It takes someone doing something stupid. Normality evolves out of something ignored or actively hated. Someone has to be doing something stupid to change the future. Otherwise it's not the future, it's just more of now.
+
+## PART 5: WHAT IS THIS?
+
+1. Being right matters much less than doing. You can write the perfect thesis about how the world works but all it takes is one person doing things differently to throw all that out.
+
+(I am very aware of the hypocracy of this one!)
+
+2. Discussion of the industry is part of the industry. Commentary helps society absorb each artefact into itself - criticism, fan writing, commenting, sharing are all partof the machine.
+
+(I am also aware that this contracts the previous one...)
+
+3. Newness and originality isn’t as important as we say. We walk about newness, but radically new and radically original aren't that attractive.
+
+4. You only live in the market you live in. We can imagine a world where the parameters are different - where the instrumentation, the styles, the tuning are all different. Pitching to an imaginary market might not work.
+
+## PART 6: CREATING
+
+1. All value is created from nothing. Most of our activity is spent turning things of value into new things of different value - selling a product that exists, building a shop to sell something, shipping things around the world, managing an industry which is well understood. But all this came from somewhere. We forget about creating value out of nothing.
+
+2. Creating value doesn’t start with creating value. Inventing and creating doesn't look like normal work. You have to play, sketch, make mistakes. Watch any composer or musician in the early stages of creation and they look like a child. Fun, playful, throwaway. This is important work.
+
+3. Creating requires sketching and practice. Almost nobody practices. We all rush to work - to look busy doing our jobs. But creating doesn't start with doing the job, it starts with sketching and practice.
+
+4. Success is manufactured luck. There is no repeatable recipe for creating the right thing. Sometimes the thing we create lands and sometimes it doesn't. The trick is building the muscle and habbit of creation - manufacture the luck that the output hits the world at the right time.
+
+## PART 7: VALUE
+
+1. Important details can become unimportant overnight. Industries obsess over details long after they don't matter, chasing ever higher quality when the world has moved on. Obsession over the fine details of counterpoint may not be the detail that the world today values. And the details the world values today will shift tomorrow. This is true in the art, the industry and the consumption.
+
+2. Artistry will be sidelined. We talk about the skill and value in music, but in truth there are diminishing returns which are sidelined by the ability to network and distribute. Artistry is important to the world but, perhaps sadly, only up to a point.
+
+3. How do you measure value? This isn't at all clear. Popularity? But exponential distribution means that what's big gets bigger. Longevity? But what has traction will continue, and what has no traction now may transform the world very soon. Is it the number of compositions? Or the impact of those (yet many influences aren't tracable). How you think think about value determines how you view the world's work and your own.
+
+4. Artefacts become identity, rather than the underlying value. Whether it's the instrument, the style of music or the physical media - we will create identity around the artefacts we make. But those artefacts are a coincidence of time, not something eternal. The danger is when we rail against the change in artefact. Every industry at some point over-identifies with the artefact instead of the underlying value
+
+## PART 8: TRANSIENT
+
+1. Everything is waves. We see the world as fixed - fixed objects, institutions, countries. Behind everything, though, there is a wave which led to the thing existing or a vibration which keeps it alive. Everythign is waves, nothing is static. Even the presence of a cloud suggests a wave of pressure which is invisible. Seeing the world like this, we start seeing out the early vibrations or early parts of the waves rather than the obvious, loud waves. We need to seek out the invisible.
+
+2. Everything is transient. Every wave ends. Every trend, technology or idea has it's origin, it's peak and it's end. But that's half the fun - riding the wave, seeing where it goes, trying to see how far you can push it or how much fun it can be. 
 \newpage ** _Blank page_ **
 
 # PART 1: WINDOWS & STRUCTURES
@@ -445,6 +793,10 @@ You are not your medium. Whatever skills, medium, format you work in today is a 
 
 The question for you is whether you have tied your ego and your attention too closely to one medium rather than the underlying value.
 
+
+***ADD: Groupthink fits in here. the group over-identifies with the medium.
+
+
 ## The new medium is never a copy of the old.
 
 The nuances of a new medium are not a copy of the old. Thinking and acting as though this is the case means you miss out on new value, new ways of delighting people or just miss the point of the new medium altogether.
@@ -531,6 +883,10 @@ All the effort we put into defining what “it” is can be undone overnight
 
 Being right matters much less than doing
 There can be diminishing returns to knowledge
+
+See: https://twitter.com/jasoncwarner/status/1583575035780173824?s=20&t=18un1RG_mgTnL7YByQbosA
+
+"Demos > Memos"
 
 ## Discussion the industry is part of the industry.
 Discussion is an important part of the industry
