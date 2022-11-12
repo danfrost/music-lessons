@@ -295,6 +295,25 @@ If we think about the history and disruption of banking and money, it's easy to 
 
 Money is a particularly interesting one when it comes to the flow of value.
 
+If we compare one form of money to another, we can see different available flows of value to different people. In the beginning there was no money and there wasn't even barter. You forrage or hunt for food and you have the value you need. There is no storage, no future value. If we barter then value from my activity has found its way into your life - there are overlapping flows of value in our activity. (This is like a cross-roads or X shape.)
+
+When I learn to preserve food, I prolong the value of my activity into the future.
+
+If we introduce a coin or token of some kind, we enable flows of value which are not only geographical but through time. We have created a network of possible trade.
+
+If you make a bank, and I deposit my cash in your bank to withdraw in the future we have done multiple things: my accumulated money becomes more useful to me because I don't have to look after it; I don't need to have a safe or other storage. But you can now lend that. Yet more flows of value.
+
+However, you have become a gatekeeper to whoever can borrow from you. While we have created flows of value we have not made these flows available to everyone. 
+
+This is illustrated in the case of the East India company when they created a system to take deposits in [find out where] and allow withdrawls [find out where]. This does two things: it solves a problem that the East India company had in getting money from X to Y but it also, by design, it excludes a lot of people from (legitimate and illegitimal) access to that money. Their system wasn't designed or built to allow just anyone to move money from X to Y, it was designed as a very specific flow of very specific value for very specific people.
+
+A lot of money systems are exactly this way. They allow a very specific form of value to be stored/exchanged between very specific entities. It's not true that each progression from one technology to another is an improvement of everything, nor is it a (dis?!)improvement. So what happens?
+
+These 1-dimensional timelines can be unsatisfactory. Perhaps each new method / innovation is sequential but not a straight improvment - it's more about trade offs. And not just in the technology itself but in where the technology can be applied. 
+
+
+This tells us that the progression from one technology to another is not 
+
 >>Get ideas from books - from the history of money book**
 
 >>Get some of the ideas from Bank 2.0.
@@ -315,16 +334,11 @@ East India company - way of doing transactions on paper (which 'disrupts' the ne
 PayPal
 Crypto
 
-These 1-dimensional timelines can be unsatisfactory. Perhaps each new method / innovation is sequential but not a straight improvment - it's more about trade offs.
-
-
-*Smartphone vs laptop/desktops*
-Apple created a new place for new value. 
-
-Use the picture of all the things which ended upon on the smartphone. 
 
 *Slave trade*
 Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
+
+
 
 *Disruption and evolution of information / communication*
 (This is not broadcast communication - this is 2-way / discussion etc)
@@ -342,11 +356,93 @@ How do we measure the "improvements"? Cost, speed, density of information / band
 
 Measuring improvements quickly leads to the intuition that each wave of disruption is not necessarily an improvement. We know this because we have in person meetings when we need to convey more but email when the information is (perhaps) more routine. 
 
+*Smartphone vs laptop/desktops*
+In the previous example, we looked at a series of technologies under the heading of "communication" technology but this undersells the impact they had. Landline phones didn't just allow communication between people, it allowed trading of stocks around the world - or maybe it was the telegraph which enabled that. Either way, the communication technology allowed the communication of very different types of messages which have very different types of value. Phoning your uncle in another country to talk about your visit has a very different impact to spending 4 hours on a transatlantic call to negotiate buying a company.
+
+The shift from desktops/laptops to smartphone did exactly this. The smartphone didn't just absorb the value that landline phones previously held, but myriad other things. Music, photography, socialising, film, banking and many other things.
+
+The interesting thing is that this value was finally, after a few false starts put into the marketplace by Apple. The false starts [...General Magic...].
+
+The important observation here is the shift in Apple's own value from computers to smartphones, and the many layers of value which were built on top of that.
+
+They were able to create their own value. 
+
+This is a story which has been picked apart a million times and I don't think analysing this is going to bring new insight. What we need to ask was, what way of seeing the world did they have which allowed them to move so confidently into an area that they had tried and failed in before? (The smartphone was basically a PDA, which the Newton was but that failed.)
+
+The easy thing to do here is to look at what people at Apple did to create the iPhone. This is what a lot of business books do - they give you case studies in how the people who did the thing did the thing. That's perfectly useful and you should read those books, but that's not what we're going to do here. I don't think that's a particularly useful exercise because you end up cargo culting [introduce the idea here or earlier on - maybe in the intro with all the silly things that organisations do]. What we need to ask is: what were the deeper ideas or motivations which allowed Apple to detact itself from being in the business of building desktop computers and allowed it to build a new generation of computing?
+
+In order to answer a question like this, case studies won't entirely answer the question because each case study is a sample of what happened. It's an example of one set of humans in one circumstance who reacted in one partciular way. If you know any amount of statistics you know that one measurement is not data - annecdote is not the same as data.
+
+My contention is that to learn about how Apple pivoted from one technology to another we need to look at how other pivots have happened - in this book we will us music and explore how pivots from one instrument to another, from one musical system to another, from one form of music to another. 
+
+What underlies this is a believe that the creativity of the human brain is working in the same way across many domains. 
+
+>>Get some stats on this. 
+
+//Apple created a new place for new value. 
+//Use the picture of all the things which ended upon on the smartphone. 
+
+
+
 *AI's impact*
 
 (Find someone else's timeline of this)
 
+https://www.ubs.com/microsites/artificial-intelligence/en/new-dawn.html#:~:text=There%20are%20three%20phases%20of,Artificial%20Super%20Intelligence%20(ASI)
+
+>>Do an AI timeline.
+
+AI is the 4th revolution:
+Steam power (1784)
+Electricity (1870)
+IT (1969)
+AI (today)
+
+This is another series of technology progressions which are known about but not really understood. ((Perhaps move this to near the top of this chapter. Reference The Lunar Men)).
+
+Books:
+    the measure of all minds - relevant for: how we measure as technology changes (in this case from the human brain to machines)
+
+    Artificial Intelligence - an illustrated history. Clifford A Pickover.
+
+
+Rather than think about the history of artificial intelligence as machines like HAL or deep neural networks, it's more useful to think about the rise of things which take decision making away from humans. This is a thread of technology progression which makes more sense.
+
+We hvae built tools to help us think and to help us make decisions for a long time. THe abacus and [get other] counting machines augment the human's ability to make a decision about how much of something there is, or how that thing could be shared between multiple parties. It also serves a purpose of communicating the working - I can put the beads in a particular position and then you could take over from me. It's a form of ancient spreadsheet in that way.
+
+Scales also take subjective weight decisions and make them objective. Clockwork divides time, but also makes possible other processes which can be mechanised and regularised. 
+
+Each of these is not traditionally a form of artificial intelligence, but I think starting with these makes more recent AI feel like just another way of taking what humans do and automating or mechanising it.
+
+As we progress to electronics, the value made possible a very specific piece of human behaviour which enabled a gigantic world of possibilities. By focusing on switches - turning electric current on and off, values were able to be turned into machines which could count.
+
+Binary calculations persisted as computing power increased, but the underlying technology shifted from values to solid state electronics. We have lived through this revolution and we have felt the effects, but it's worth spending time reflecting on the impact. The tiny world of binary calculations has led to almost every industry's communication being rebuilt on top of something electronic. Like the telephone enabling completely new flows of value, electronics changes _where_ the work was done which changes availabel flows of value.
+
+We then follow this artificial intelligence / automation / mechanisation of the human capabilities through mainframes, increased computing power, larger networks through to AI. If you know anything about any of these you'll know I have conflated a human number of somewhat-related areas very simplistically. This is deliberate. The underlying technologies of computing, communication and AI are not the effect, they are the cause.
+
+..
+
+How are we measuring the progress of computing? One way is to talk about the number of calculations which can be performed each second. ((Add a chart)) This reduces life down to just that - calculations. This is interesting, but is merely a proxy for the impact of computing. What about how computers compete with humans on difficult tasks? This is interesting because it gives us a sense of how this new creature of AI-enabled-computing compares to us, and it seems a very human thing to do to judge something new in terms of what we know.
+
+Those are all 1st-order effects. A 1st order effect is what happens as a result of an action. I push the first domino over and it falls over; I push the glass over and the glass falls over. 1st order effects in technology are the remit of the engineer, but they don't really help us think about how the world as a whole will change.
+
+More intersting are the 2nd and 3rd order effects. In truth, thinking beyond this is a series of "if this... and if that... and if the other thing... then X will be true" statements. We string together endless possibilities and only some are going to happen. But it is those 2nd, 3rd... nth order effects which is what makes the real difference.
+
+The internet enabled communication of arbitrary information at global scale. That's the 1st order effect. The nth order effect is that governments were able to interfere in elections by manipulating how society communicated on new platforms built on top of the internet; and that I can commission work on research, production and promotion with a team around the world without meeting any of them or worrying about physical contracts.
+
+Computing is the most obvious case of industry disruption and we could fill a book with endless examples. however, there's no point restating at length the world we live in. What's interesting is to think about what areas of life are about to be eaten by computing and AI. Will it be everything or just a few areas? When an area is replaced with computing and AI, what will the 2nd and 3rd order effects be.
+
+As we enter an ago of content generation, where machines can create content which was previously the role of humans we will see a series of nth-order effects but all we have now are questions: what happens when machines can generate infintie amounts of good quality music? What happens when machines can both generate music and measure of heart-rate / brain activity to calm you? What happens when machines can summarise statistics better than humans (which they can already do)? A lot of this capability is here already, we just haven't seen the effects.
+
+If we go back to two much older technologies, the mechanical clock and the train, we can see an interesting series of nth order impacts. Trained needed train timetables, so clocks became more widespread. This meant that time became more centrally managed - anything related to the trains had to abide by the timing of the trains.
+
+((Find some research on this - some case studies e.g. of how towns changed to have clocks in the middle.))
+
+What are the equivalents going to be in AI? Maybe that's not the right question - that's asking for a specific set of predictions. Maybe we need to think about how to breakdown the problem, so the question becomes: how can we think about the impact of new forms of AI (without endlessly speculating what the specific impacts will be)?
+
+>>Add these to AI timeline.
 Abacus
+Scales
 Clockwork
 ...
 Value
@@ -361,9 +457,11 @@ GFLOPS
 £s/GFLOPS
 (£s/GFLOPS) / average page (to give a sense of how much cheaper than a human the computer system is?)
 
-Or do we measure the impact on the things it replaces? E.g. we don't have typing pools anymore.
+XXREMOVE Or do we measure the impact on the things it replaces? E.g. we don't have typing pools anymore.
 
 *Layers of information platforms/broadcast media*
+
+
 Theatre
 Email lists
 Blogs
