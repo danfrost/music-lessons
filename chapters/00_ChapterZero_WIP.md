@@ -52,7 +52,9 @@ Around the turn of the century, the revenue of the music industry was being eate
 
 The industry didn't really win though - the incomes of lots of musicians have been destroyed. Spotify, the dominant global player in music does not necessarily act in the best interests of the musicians and music industry, but it did win. This pattern plays out again and again; a shift from one industry and one set of interests, to another industry and another set of interests.
 
-## The innovator's dilemma
+### The innovator's dilemma
+
+*TASK: Write a summary*
 
 Introduce the idea here.
 
@@ -60,7 +62,7 @@ This is talked about a lot, but most writing about this is either academic or qu
 
 Most of the business leaders I've met haven't read this. 
 
-## The key question
+### The key question
 
 Here's a question: Why was the music industry disrupted?
 
@@ -111,7 +113,7 @@ As you dig into why an industry is disrupted you go through layers and layers of
 
 ## Non-music examples of disruption
 
-*Boats & Roads*
+### *Boats & Roads*
 (Kinsale)
 
 TASK: Copy over and rewrite.
@@ -289,7 +291,7 @@ Various generations of mining.
 
 TASK: Research this - is this from the Innovator's dilemma?
 
-*Banking, Challenger banks & Crypto // sending money*
+### *Banking, Challenger banks & Crypto // sending money*
 
 If we think about the history and disruption of banking and money, it's easy to see the shift from barter to money to banks to online banking and then crypto. Basically, to look just at money as a way of buying things in the momeny. Money is more complex than this though - it's a store of value, it has a future value, its value depends on what's going on in the economy, and there are different types of money - central banks, commercial banks, consumer, cash etc.
 
@@ -335,28 +337,9 @@ PayPal
 Crypto
 
 
-*Slave trade*
-Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
 
 
-
-*Disruption and evolution of information / communication*
-(This is not broadcast communication - this is 2-way / discussion etc)
-Travelling
-Letters / postal service
-Telegraph
-Landline phone
-Mobile phone
-Computer - fixed internet
-Smartphone
-...then where? VR/AR?
-    https://www.linkedin.com/pulse/auracast-evolution-earbud-case-nick-hunn/?trackingId=w1C4oIq7i5slvSpG%2FuWC2A%3D%3D
-
-How do we measure the "improvements"? Cost, speed, density of information / bandwidth, network size.
-
-Measuring improvements quickly leads to the intuition that each wave of disruption is not necessarily an improvement. We know this because we have in person meetings when we need to convey more but email when the information is (perhaps) more routine. 
-
-*Smartphone vs laptop/desktops*
+### *Smartphone vs laptop/desktops*
 In the previous example, we looked at a series of technologies under the heading of "communication" technology but this undersells the impact they had. Landline phones didn't just allow communication between people, it allowed trading of stocks around the world - or maybe it was the telegraph which enabled that. Either way, the communication technology allowed the communication of very different types of messages which have very different types of value. Phoning your uncle in another country to talk about your visit has a very different impact to spending 4 hours on a transatlantic call to negotiate buying a company.
 
 The shift from desktops/laptops to smartphone did exactly this. The smartphone didn't just absorb the value that landline phones previously held, but myriad other things. Music, photography, socialising, film, banking and many other things.
@@ -384,7 +367,13 @@ What underlies this is a believe that the creativity of the human brain is worki
 
 
 
-*AI's impact*
+### *AI's impact*
+
+*Take notes from the Illustrated AI history book*
+
+
+
+
 
 (Find someone else's timeline of this)
 
@@ -459,7 +448,16 @@ GFLOPS
 
 XXREMOVE Or do we measure the impact on the things it replaces? E.g. we don't have typing pools anymore.
 
-*Layers of information platforms/broadcast media*
+### *Layers of information platforms/broadcast media*
+
+One of the 2nd order effects of computing has been increased communication platforms. When we think of communication, we probably think of things like the telephone, email and social media.
+
+However, like computing itself it's better to see the trend of these platforms as a continuation of the human need to communicate and to broadcast information. This allows us to ignore the specific technologies and look more at the implications of the technologies and, more importantly, the 2nd/3rd/nth order effects.
+
+
+
+We will look at broadcasting first. Broadcasting is the human need to get a message across to many people.
+
 
 
 Theatre
@@ -471,7 +469,28 @@ TikTok
 
 As we see progression of the information platforms, we see that new nuances are important. TikTok is, in effect the same as YouTube but the arrangement of the information within the medium (video on mobile device) brings new nuances. These naunces are easy to ignore if you're being disrupted - it all looks like same: video on you own website, on Vimeo, on YouTube, or TikTok is all video. Except that the progression introduces nuance.
 
-*Education*
+
+If we go back
+
+
+### *Disruption and evolution of information / communication*
+
+(This is not broadcast communication - this is 2-way / discussion etc)
+Travelling
+Letters / postal service
+Telegraph
+Landline phone
+Mobile phone
+Computer - fixed internet
+Smartphone
+...then where? VR/AR?
+    https://www.linkedin.com/pulse/auracast-evolution-earbud-case-nick-hunn/?trackingId=w1C4oIq7i5slvSpG%2FuWC2A%3D%3D
+
+How do we measure the "improvements"? Cost, speed, density of information / bandwidth, network size.
+
+Measuring improvements quickly leads to the intuition that each wave of disruption is not necessarily an improvement. We know this because we have in person meetings when we need to convey more but email when the information is (perhaps) more routine. 
+
+### *Education*
 
 Community
 (Get a bit of history on this)
@@ -483,12 +502,13 @@ The purpose of education. This means that the important value the world finds in
 
 Education is also subject to non-disruptable limits: the key point of education is to alter the brains of humans. If there are physical/biological limits to this, those will dictate the possible rate of change.
 
-*Shipping / trade*
+### *Shipping / trade*
+
 Changes in trade routes - as new value is discovered. 
 
 In a way, shipping might be a better way of viewing disruption because it's physical. For our purposes, we can see all human endevour as some form of arbitrage and creation - finding value in one place, adding something to it and selling it for more value elsewhere.
 
-*Companies which have been disrupted*
+### *Companies which have been disrupted*
 
 _Look into each of these_
 
@@ -500,19 +520,25 @@ General motors
 Kodak
 
 
-*High street*
+### *High street*
 
 Travel agents (vs AirBnB)
 High st shops (get stats on the shift and see how much is / has really shifted. Also get Ben Evan's numbers on how much online has really eaten vs creating.)
 
 
-*Other forms of disruption - Covid*
+### *Other forms of disruption - Covid*
 
 These forms of disruption change the flow of value
 
 Increased time online
 massive decrease in foot fall. Thisis very easy to visualise but it's a direct example of "flows of value" <-- i need to introduce this idea without using that phrase too early.
 
+
+### *Slave trade*
+
+*Move this to ~last*
+
+Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
 
 
 
