@@ -13,13 +13,11 @@ echo '\\newpage ** _Blank page_ **' >> build/book.md
 #echo '\\newpage ** _Blank page_ **' >> build/book.md
 
 
-cat ./chapters/00_ChapterZero_WIP.md >> build/book.md
-echo '\\newpage ** _Blank page_ **' >> build/book.md
-
-
 cat ./chapters/00c_onOnePage.md >> build/book.md
 echo '\\newpage ** _Blank page_ **' >> build/book.md
 
+cat ./chapters/00_ChapterZero_WIP.md >> build/book.md
+echo '\\newpage ** _Blank page_ **' >> build/book.md
 
 cat ./chapters/01_part1.md >> build/book.md
 echo '\\newpage ** _Blank page_ **' >> build/book.md
