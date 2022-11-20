@@ -12,7 +12,7 @@ header-includes: |
 fontsize: 9pt
 ---
 **BUILD DATE: 
-Sat 19 Nov 2022 09:48:09 GMT
+Sat 19 Nov 2022 09:59:12 GMT
 **
 \newpage ** _Blank page_ **
 # Music Lessons - on one page
@@ -241,44 +241,6 @@ Here's a question: Why was the music industry disrupted?
 What alternatives could have played out and who would have been responsible for those?
 
 This is either a very simple question or very complex. It's usually answered by saying that a disruptive technology came along (except tapes disrupted CDs, which disrupted records - so that doesn't quite cut it). Or that the industry had an entrenched model (except it was used to making music free on radio in return for royalties, so that doesn't quite add up either). **Get a few more examples**.
-
-https://www.sutori.com/en/story/history-of-music-piracy--eBQLbohWekBUp4jzJYKiELT3
-History of Music Piracy (timeline)
-
-https://en.wikipedia.org/wiki/Timeline_of_file_sharing
-This includes very early stage file sharing.
-
-https://www.amazon.co.uk/s?k=napster+pirate+bay&crid=Y3FVZY6LW8N3&sprefix=napster+pirate+bay%2Caps%2C82&ref=nb_sb_noss
-
-https://beksinalaska.typepad.com/CIOS_211_Docs/Shared_Articles/Pirate_Bay_Article.pdf
-The Politics of Piracy Emerge in Sweden
-ARTICLE DATE: 07.31.06
-
-https://www.bbc.co.uk/news/entertainment-arts-45042838
-Easier streaming services put dent in illegal downloading
-(See "YouGov's Music Report")
-
-https://news.ycombinator.com/item?id=28657231
-    "Really? Spotify and Netflix pale in comparison to what Napster was. For all the content you think you have access to, Napster gave us the ability to see what other people had stored on their drives, stuff that they wanted to share rather than whatever media Spotify has a license for. That opened a world of discovery unmatched by any streaming service, or all of them put together. Want a club track from an unknown Russian group that only existed for a few nights back in 1998? That was on Napster. Netflix cannot deliver classic Simpsons episodes."
-    ...
-    "No streaming site will ever have licenses for the bizarre remixes of video game themes, or the Sesame Street theme, that made their way around Napster.
-    More than the music, though, Napster had chat rooms where you could get legit recommendations of new music that far exceeded the recommendation engines of today.
-(This is: window. We've learnt that streaming means one thing but it used to mean much more. We have a smaller world of possibilities.)
-
-
-https://en.wikipedia.org/wiki/Open_music_model#Industry_adoption
-    Includes Yahoo Music, $5.
-    Too early. 
-
-https://musicindustryblog.wordpress.com/tag/pirate-bay/
-
-https://committees.parliament.uk/writtenevidence/14915/html/
-
-https://www.midiaresearch.com/reports/fighting-free-with-free
-    "How YouTube Usurped BitTorrent"
-
-
-
 
 As you dig into why an industry is disrupted you go through layers and layers of market and human behaviour. Entrenched business models, lack of awareness of new ways of doing things, people identifying with the craft instead of the outcome, lack of access to new kinds of customers. So on, down and down.
 

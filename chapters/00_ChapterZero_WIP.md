@@ -135,26 +135,13 @@ The brige was built.
 ### *Amazon and publishers.*
 (Look up the various legal cases)
 
->>Put all these references in Notion*
+>> NEXT: Copy in the key points and write this section.
 
 TASK: Find legal cases.
 
 Is there anything in Amazon's letter to shareholders?
 
-https://www.businessinsider.com/amazon-war-against-publishers-like-hachette-2014-5?r=US&IR=T
-    But compare this to other monopoly/strong companies. I bet this isn't new.
-
-https://d3.harvard.edu/platform-rctom/submission/ebook-wars-amazon-vs-publishers/
-
 *Look up the legal cases.
-
-https://www.newyorker.com/magazine/2014/02/17/cheap-words
-
-https://www.theatlantic.com/technology/archive/2019/08/amazons-plan-take-over-world-publishing/595630/
-    “From an author’s perspective, that’s all I ever wanted: people to read my books.” 
-
-https://www.theguardian.com/books/2021/jan/15/amazoncom-and-big-five-publishers-accused-of-ebook-price-fixing
-
 
 https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/84119-publishing-leaders-issuing-warning-over-amazon-s-market-power.html
 --> This is about monopoly power. Find Ben Evans etc challenges to this idea
@@ -164,27 +151,9 @@ https://knowledge.wharton.upenn.edu/article/amazon-vs-hachette-battle-future-pub
 
 Also reference: when I asked on twitter whether it's worth getting a publisher, they (Mark ??) said that publishers look for a good following. So what is the role of the publisher? Is this a function of Amazon? Did Amazon break the publishing world or did they realise that the publishing world was going to change anyway?
 
-
 What is going on here?
 Change of channel?
 Change of power?
-
-
-
-https://pages.stern.nyu.edu/~wgreene/entertainmentandmedia/PublisherWinsFightWithAmazonOverEBookPricing.pdf
-
-https://pubs.aeaweb.org/doi/pdf/10.1257/jep.29.3.165
-^ nice stats here
-
-NYT reprint
-http://tony-silva.com/eslefl/miscstudent/downloadpagearticles/ebooksales-nyt.pdf
-E-Books Outsell Print Books at Amazon
-
-https://link.springer.com/article/10.1007/s10824-015-9241-x
-Fair use and fair competition for digitized cultural goods: the case of eBooks
-
-
-
 
 
 *Mining.*
