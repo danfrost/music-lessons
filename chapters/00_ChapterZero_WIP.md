@@ -133,27 +133,78 @@ One last point before we get into more modern frames of reference:
 The brige was built.
 
 ### *Amazon and publishers.*
-(Look up the various legal cases)
 
->> NEXT: Copy in the key points and write this section.
+Music could be disrupted by the internet because the raw material of music - sound - is easily captures and disrupted. Books should have followed the same pattern but something about the way we consumer books in all its forms meant it didn't follow quite the same. 
 
-TASK: Find legal cases.
+Slightly inferiour copies of music using the new mp3 technology of the 90s [check] compared favourably with the CDs and tapes we'd become used to. Perhaps there was a little loss of quality, but overall the gist of the experience remained the same. But books seem different.
 
-Is there anything in Amazon's letter to shareholders?
+The battle, as its termed by the incumbents, was similar though. 
 
-*Look up the legal cases.
+Project Gutenburg, started by Michael Hart in [??] to [digitise public domain material] was the preserve of enthusiasts and nerds. Whether it was from this project or somewhere else, I certainly remember downloaded reems and reems of public material and printing it out in 8-point to reduce the number of pages I had to pay for. The behaviour of early adopters doesn't always translate into the behaviour of masses though, and this kind of effort of searching, downloading, reformating and printing was very unlikely to ever be adopted by the masses.
 
-https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/84119-publishing-leaders-issuing-warning-over-amazon-s-market-power.html
---> This is about monopoly power. Find Ben Evans etc challenges to this idea
+..
 
-https://knowledge.wharton.upenn.edu/article/amazon-vs-hachette-battle-future-publishing/
-    "Die a Slow Death or Fight" --> but what kind of fight??
+ebooks were first popularised when devices allowed the end-to-end experience to be seemless. To anyone who had been using the internet to find and read material, it made perfect sense that the internet would be the distribution platform for books. What seemed to be missing was the consumer experience. There are important lessons here.
 
-Also reference: when I asked on twitter whether it's worth getting a publisher, they (Mark ??) said that publishers look for a good following. So what is the role of the publisher? Is this a function of Amazon? Did Amazon break the publishing world or did they realise that the publishing world was going to change anyway?
+Amazon, with their Kindle, Google with search and Apple with iPad all created ways of closing the gap between the consumer impulse and discovering (and possibly buying) a book.
 
-What is going on here?
-Change of channel?
-Change of power?
+- “We had high hopes that this would happen eventually, but we never imagined it would happenthis quickly,” said Jeff Bezos, Amazon’s chief executive, in a statement. “We’ve been sellingprint books for 15 years and Kindle books for less than four years.”
+
+This quickly became controvertial as each of Amazon, Google and Apple did things which the publishers and authors, who own of the intellectual property, found objectionable. These include allowing ebooks to undercut the price of physical books (which creates incentives to buy digital rather than physical), providing free search-inside via Google search and other price fixing practices.
+
+//
+
+Amazon had developed the ebook specifically for reducing the steps consumers needed to take to search, buy and read a book. In their case, the technology was developed around the user need of searching and reading. When they created the Kindle marketplace and the user base, this was created in the private domain. These are Amazon users on Amazon devices. 
+
+This enabled them to play with the pricing and distributino / access rules however they liked. They can set prices - initially prices were set below market rate, undercutting the publishers and authors but, presuambly providing utility to consumers. 
+
+Google created a similar environment for themselves; once user are coming to the Google search box every day and expecting good search results, Google could add a little more value here and there. When a user is doing a Google search, they are very unlikely to go to another site to do a book search. The entire experience is inherenetly owned by Google. 
+
+Google's missions, to organise the world's information and make it searchable, is clear to users and helpful. There is no user who wants to spend longer finding the thing they're looking for, so the value of Google is instantly understandable to users once they realise how much information is in the world. Adding books onto this isn't a huge leap.
+
+Apple, lastly, had created first the iPod then iPhone and then iPad. With each of these, they realised either right away or soon after that the secondary value to the core product could be gigantic. The iPod led to interesting reasons for non-Apple users to have at least one Apple device because that's where all the great music was and, when iTunes was available for PCs, why not buy this as it's the only decent music player.
+
+Apple did with the iPod what Amazon did with the Kindle, but each was approaching a different user problem and from the point of view of a different type of company. This is important because the type of company you are affects the kinds of things you see as valuable for customers, for the world and for yourself.
+
+When tech commentators talk about Google being an information or AI company, Apple being a hardware company and Facebook being ad company there is more to these comments than simply explaining how they tend to make their money. The kind of company you are affects where you see and exploit value.
+
+And this is what we saw. Each of these new entrants into publishing - Amazon, Google and Apple - looked at books from a different angle. Amazon saw books initially as a good category of product to sell on the internet and then it saw ebooks as a way providing extra value to users within the Amazon ecosystem. They were able to analyse which pages on which books were actually read and even which sections were highlighted. This was a far, far closer relationship between provider and reader than publishers had ever had.
+
+Google saw books as a way of adding value to the user of search. Users clearly want to be able to search through all of the world's information, so why not allow them to search through books and view the results? Especially if the books are public domain. This leads to more use of Google's search.
+
+And Apple wanted more reasons to use iPad, the iPhone and other Apple devices. If users can find, buy and read on Apple devices then the utility of those devices increases.
+
+Amazon wants you buying from Amazon. Google wants you searching on Google. Apple wants you using Apple devices. None of this is controversial. Statements like this are either implicity but not hidden or stated openly in their strategies and, because each of these companies had built up a large user base whenever they introduced something new into it the effect was outsized. 
+
+This didn't lead directly to the surge in ebooks, but it certainly enabled it. The publishing world should have been looking at the internet and the growth of reading devices (such as Kindle, iPad and smartphones) as the creation of potential sources of value for readers. No amount of saying that _people prefer to read on paper_ matters when people discover they can take one kindle on holiday instead of a suitcase of books.
+
+>>TODO: Add a new lesson to "value". New value is seen by new entrants.
+
+>>TODO: Make sure (in "value") there is "potential value", which is something incumbents must pay attention to. 
+
+
+When researching for this book, I was surprised by how unresolved this matter seems. Even at the start of 2022, Amazon and publishers hae been accused of price fixing ebooks.
+
+> Jan 2022 - "Amazon.com and the “Big Five” publishers – Penguin Random House, Hachette, HarperCollins, Macmillan and Simon & Schuster – have been accused of colluding to fix ebook prices, in a class action filed by the law firm that successfully sued Apple and the Big Five on the same charge 10 years ago."
+
+In the cases, going back more than a decade [check] the publishers acuse Amazon and Google of not playing on a level playing field. They acuse the new entrants of using their overly strong market power to use predatory pricing and "systematic below-cost pricing of books to squash competition in the book selling industry as a whole".
+
+What quesitons does this give us?
+
+1. Why didn't the publishers build this for themselves? The technology was well known and the idea of ebooks has been thought of for years. In the 1990s, the publishes were stronger than they are now. So perhaps there's a lesson about incuments or competitors acting together.
+
+2. Why did publishers and other book lovers bother talking about how print is better than screens/e-ink? In the long run, being right didn't matter more than actually building the thing.
+
+3. The internet un-levelled the playing field. Despite the publishers complaining about Amazon's practices, the fact that publishers deliberately release the more expensive hardback book following by cheaper paperback and ebooks is, itself, a form of price fixing. There's something about the status quo being fair and level until something comes along and makes it clear why things aren't fair and level.
+
+4. Do things converge to fair over the long term? Or does the market stay skewed? This isn't at all clear and looking at the exmaples of music and ebooks, it's not clear that we have ended anywhere "fair" so perhaps we need to look at how markets (of various kinds) pan out over the medium and long term. 
+
+5. Is a fair, level market good for innovation and progress?
+
+6. How you define unfair depends on how you define a market. This is somewhat intellectual slight of hand, but it's not wrong.
+
+7. Many articles about Amazon vs publishers, talk about the "fight" the publishers are putting up. On what fronts do incumbents tend to fight and is this worth doing when the new intrant will have created new flows of value, effectively reframing the entire question?
+
 
 
 *Mining.*
@@ -162,6 +213,8 @@ Various generations of mining.
 TASK: Research this - is this from the Innovator's dilemma?
 
 ### *Banking, Challenger banks & Crypto // sending money*
+
+
 
 If we think about the history and disruption of banking and money, it's easy to see the shift from barter to money to banks to online banking and then crypto. Basically, to look just at money as a way of buying things in the momeny. Money is more complex than this though - it's a store of value, it has a future value, its value depends on what's going on in the economy, and there are different types of money - central banks, commercial banks, consumer, cash etc.
 

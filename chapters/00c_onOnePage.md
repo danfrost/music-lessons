@@ -83,7 +83,7 @@ _Below are the chapters I have planned. Each is an unusual observation of music 
 
 6. What is normal doesn’t come from the crowd. We interpret much of history in terms of the winners, the majority and the successes - i.e. what’s liked by the crowd, what’s normal. But this “normal” never starts with the whole crowd. But what's normal now probably didn't start in the crowd - it probably started with crazy tinkering. The future probably isn't in the crowd.
 
-# PART 2: FLOWS AND NETWORKS
+## PART 2: FLOWS AND NETWORKS
 
 1. Flows of value (not necessarily money). Everything should be understood in terms of flows of value before it’s understood in terms of money. Disruption is simply changes in flow. Most people don’t look for the flows in value they look for flows in money.
 
