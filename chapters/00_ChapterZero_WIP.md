@@ -214,7 +214,31 @@ TASK: Research this - is this from the Innovator's dilemma?
 
 ### *Banking, Challenger banks & Crypto // sending money*
 
+Do timeline of this.
+Highlight that at each stage, each type of money (clay tablets, stone tablets, paper, banks, deposits etc) has a different purpose. It's solving a different problem. 
 
+Then there are e.g. religious restrictions on what money/banking could be such as:
+not charging interest
+(check this) not lending to certain types of people - check. I think this was the case is some Arab countries. 
+
+The evolution of money follows a similar evolution of other ideas/concepts/artefacts/technologies.
+
+Early forms are direct and very literal. The value is for the user directly.
+
+As the technology evolves, and as the number of parties involve increases so do specialisation in both the technology and the services around it. 
+
+In money/banking this leads to 
+
+2nd order / nth order impacts.
+Money is an exchange of something. But then credit/loans, shares etc can be built on this.
+Of course these can go wrong - tullips, housing booms, dot com nonsense. 
+
+
+
+"The History of Banking Timeline | Sutori" - starts very late. Completely ignores a lot of history. Windowing. This is classic windowing - bringing in the window so it starts within the country and culture we are part of, which makes it feel like there is something exceptional about it.
+
+
+--
 
 If we think about the history and disruption of banking and money, it's easy to see the shift from barter to money to banks to online banking and then crypto. Basically, to look just at money as a way of buying things in the momeny. Money is more complex than this though - it's a store of value, it has a future value, its value depends on what's going on in the economy, and there are different types of money - central banks, commercial banks, consumer, cash etc.
 

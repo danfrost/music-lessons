@@ -45,3 +45,12 @@ Kodak
 Travel agents (vs AirBnB)
 High st shops (get stats on the shift and see how much is / has really shifted. Also get Ben Evan's numbers on how much online has really eaten vs creating.)
 
+==
+
+
+https://twitter.com/jenistyping/status/1499852188348125184
+
+==
+
+https://read.chartr.co/newsletters/2022/9/23/as-it-was-a-brief-history-of-the-music-industry-1
+
