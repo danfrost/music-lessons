@@ -49,6 +49,53 @@ The industry didn't really win though - the incomes of lots of musicians have be
 
 ### The innovator's dilemma
 
+A lot of the ideas in this book are either derived or inspired from the Innovator's Dilemma. This is a book which I am constantly surprised hasn't been read more. Almost nobody I work with has read this. Almost no consultants I come across have read more than a summary of it. Many business leaders use the phrase, probably because it is so meaningful as it stands, but they don't know the background case studies or more than one or two fo the key concepts from the book.
+
+This seems utterly baffling to me for two main reasons. Firstly, it's not an overly academic or dense book. It's quite a comfortable read with understandable and jargon-free examples. While it has been criticised for cherry-picking these examples [get ref], so long as we are cognisant of limits of those examples, there's plenty to learn. 
+
+Second, and much more importantly, the lessons from the book describe what industries are going through again and again. This confounds me. This book isn't alone in describing the ludacrous pain organisations go through but it is high up on the list [what??].
+
+I don't remember how or why I discovered this book - probably via a podcast or blog as that's how anything good was found 15 or so years ago. After I did, though, it seems utterly relevant.
+
+// Now explain some of the key concepts.
+
+The chart which sums up the innovator's dilemma is the _increasing value_ chart. There is the literal interpretation of this, which seems very engineering-focused and is about the increasing performance of a particular product. Fast cars. Bigger disk drives. Higher resolution TVs. We're used to the idea that we always want to buy something bigger and better. It's a cheap and easy tech commentator's line of "how far can we take it?". The answer, of course, is not interesting because it depends how far the market (jointly the buyers and sellers) can take it while being economic. I would happily have an infinitely large TV with infinite resolution if it cost me $100, but the suppliers probably wouldn't want to supply that.
+
+No, the increasing performance of a product category is only partly interestig and the innovator's dilemma has a second line on this chart which shows a much more interesting behaviour: The less performance line. While Hifis get ever higher quality, suddenly a file format called mp3 is introduced which is lower quality and, surely, shouldn't be attractive to consumers. Yet it is.
+
+Whe this lower quality, scrappy new entrant comes in all of the suppliers in the high performance category ignore it. It's cheap, pathetic and their customers don't want it. In that moment a wonderful thing happens; the world changes. Suddenly, the certainty over what the future was changes from obvious to contentious. The market is divided.
+
+Except that this moment is not always quick. It can last years or decades. Kodak knew about digital cameras before the world did, but stubournly decided the future was higher quality film with chemicals to print the photographs.
+
+This moment of denial is, where an incumbents digs their heals in and says "no, we know how this works", is one of the key points which sparked my interest in disruption. And it's the moment which I still find coming up again and again.
+
+For me, that graph of increasingly high end quality and challenger, up-start low quality encapsulates so many wrong decisions in so many companies in so many industries. A complete failure to think that your view of the world might be limited and possibly not useful. A failure to see that your idea of value might not apply. A dismissal of other world-views of people who are younger, less explerienced or just different. It happens again and again - the old guard, highly experienced pass judgement on something new using the values and frameworks they have created. 
+
+And at the same time they are digging their heals in, telling everyone around them how right they are are _you need to listen because I've seen this before_ something else magical happens: the up-starts aren't taking part in the conversation. They are just building something. In fact, they don't even think the conversation is a conversation because it sounds suspciously like they are just being told off or told they are wrong. If they, the up-starts, have the tools, wherewithall and the access to customers to build, ship and test something new then the entire conversation - no matter how based in historical fact and real, empirical experience - is utterly irrelevant.
+
+Bitching and moaning that the future is not like the past is cathartic but pointless. After a certain point it's also damaging. It's going to keep people in jobs they shouldn't be in. It's going to prevent industries from changing when they should change. It's also going to 
+
+That's what I read into that chart.
+
+However. What I didn't read was that everything should always be immediately thrown out. As we'll get into, there's an interesting thing in disruption of industries where you have to ask: what, exactly, is being disrupted? Is it the core value of the product (i.e. the old product is irrelevant)? Or is it some aspect, such as the channel to customers. If the thing being disrupted is the channel to customers something interesting happens; the disruptors end up rebuilding themselves in the image of their disruptees.
+
+The big music disruptors have ended up with huge teams of lawers. The education disruptors have ended up employing large teams of teachers and educators. [CHECK these] Even the transport disruptors end up employing people from the old work [CHECK].
+
+This is confusing. The chart told us that the new, up-start thing won over the long run but how come the winners end up employing the loser's employees? Isn't a company just a bunch of employees? Why didn't the old company just do something different?
+
+And now we get to the nub of the point:
+
+Why didn't they just do something different?
+
+>>> #NEXT Carry on from here <<<
+
+..
+
+
+
+
+#NEXT: 4-6 pages summary of key things from this.
+
 *TASK: Write a summary*
 
 Introduce the idea here.
@@ -214,6 +261,9 @@ TASK: Research this - is this from the Innovator's dilemma?
 
 ### *Banking, Challenger banks & Crypto // sending money*
 
+#NEXT: More research into history of money
+#NEXT: Make notes from the various books and sources
+
 Do timeline of this.
 Highlight that at each stage, each type of money (clay tablets, stone tablets, paper, banks, deposits etc) has a different purpose. It's solving a different problem. 
 
@@ -236,6 +286,10 @@ Of course these can go wrong - tullips, housing booms, dot com nonsense.
 
 
 "The History of Banking Timeline | Sutori" - starts very late. Completely ignores a lot of history. Windowing. This is classic windowing - bringing in the window so it starts within the country and culture we are part of, which makes it feel like there is something exceptional about it.
+
+"financialisation" is creating new technology on top of old.
+
+
 
 
 --
