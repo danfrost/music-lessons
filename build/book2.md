@@ -12,7 +12,7 @@ header-includes: |
 fontsize: 9pt
 ---
 **BUILD DATE: 
-Tue 22 Nov 2022 22:40:48 GMT
+Mon 28 Nov 2022 20:49:09 GMT
 **
 \newpage ** _Blank page_ **
 # Music Lessons - on one page
@@ -468,12 +468,6 @@ What quesitons does this give us?
 7. Many articles about Amazon vs publishers, talk about the "fight" the publishers are putting up. On what fronts do incumbents tend to fight and is this worth doing when the new intrant will have created new flows of value, effectively reframing the entire question?
 
 
-
-*Mining.*
-Various generations of mining.
-
-TASK: Research this - is this from the Innovator's dilemma?
-
 \newpage
 
 ### *Banking, Challenger banks & Crypto // sending money*
@@ -481,7 +475,12 @@ TASK: Research this - is this from the Innovator's dilemma?
 #NEXT: More research into history of money
 #NEXT: Make notes from the various books and sources
 
+(Money - book). Money should be affordable, durable, fungible, portable, reliable. This is why we adopted metals like gold, silver and bronze.
+
+But even at the outset of looking at what money is, we start to notice that the way in which a money might be durable can change. And if money should be reliable, who exactly does this apply to? Reliable to everyone or just a few people? 
+
 Do timeline of this.
+
 Highlight that at each stage, each type of money (clay tablets, stone tablets, paper, banks, deposits etc) has a different purpose. It's solving a different problem. 
 
 Then there are e.g. religious restrictions on what money/banking could be such as:
@@ -500,14 +499,104 @@ In money/banking this leads to
 Money is an exchange of something. But then credit/loans, shares etc can be built on this.
 Of course these can go wrong - tullips, housing booms, dot com nonsense. 
 
-
-
 "The History of Banking Timeline | Sutori" - starts very late. Completely ignores a lot of history. Windowing. This is classic windowing - bringing in the window so it starts within the country and culture we are part of, which makes it feel like there is something exceptional about it.
 
 "financialisation" is creating new technology on top of old.
 
 
+We also see layers of technology adoption in money. As soon as I have money, the concept of owing and borrowing in terms of that money can exist - this exists millenia (Ascent of Money, 2nd Mill BC, Mesopotamia. There's an ancient IOU!)
 
+We are familiar with the idea that money creates money and this IOU is just that - the IOU creates money in the future. If two people owe each other goods or money, they are dealing not just in the money which exists today but that which exists in the future. We don't really need specific historical examples to suspect that people must have realised they can owe things on behalf of other people - this is what trade would be built on. I travel across the sahara to buy food knowing that you will buy it from me when I return.
+
+Do a graphic of this - this is like the S-curves. Or like layers of technologies. In this example, the money enabled trade / barter etc.
+
+...
+
+What we see in IOUs gets formalised in the Amsterdam Exchange Bank in 1609. (Ascent of Money, p48).
+To enable easy flow of trade, regardless of currency or goods the Amsterdam Exchange Bank held accounts in standardised currencies. This enabled cheques, direct debits and transfers. 
+
+[CHECK THIS] Merchants could make and receive payments via the bank. (What happened before this?)
+
+However, the deposits and reserves remained closely linked - deposits were around c19 million [currency] and metalic reserves were c16 million. Credit creation requires decoupling deposits from reserves so that the bank can create money in the form of loans. 
+
+p51. The core function of banking became "information gatherhing and risk management". 
+
+p52. "...idea that money was about credit, not metal, never caught on in Madrid"
+
+Money, banking, finance... evolved through people realising at each stage that the solution to one problem was a platform for a new solution. Deposits is the platform for loans. Common currencies of account is the platform for direct transfers between accounts. Loans are the platform for creation of money.
+
+Each new innovation does multiple things at once:
+
+It creates new value, seemingly out of nothing. Loans, shares, risk management all created secondary impacts and secondary industries where before there was none.
+
+This value can shift the flow of power. The fact that Madrid didn't really get the idea that money was about credit rather than metal did two things: Madrid didn't get to participate in the banking and trade revolution to the same extent; by extension, Amsterdam got to exploit the new value created. These are two sides of the same coin, but it does tell us that a disruption or a change of the flow of value requires one party to be able to exploit the new value while another doesn't exploit it, either because they can't or because they don't see the point.
+
+All of this opens up the next wave of value creation. This is especially true of money, which is a very generic type of value, but may be true of other types of new value creation. When the new value framework/paradigm is created, it's not always clear what the new, emergent types of value will appear atop it.
+
+..
+
+(p188, Ascent of Money)
+Life insurance was invented [...give a bit of history...].
+
+What is life insurance in terms of our ideas of layers of innovation and disruption? It didn't really "disrupt" any industry, but it did create one whereby people could be protected from the uncertainty of when they would die even if there was certainty that they would eventually die. [Get some more on this - presumably this allowed people to be more certain with their outlays of money.]
+
+The prerequisits of life insurance are probability, life expectancy data, certainty, normal disruption, utility [DU] and inference [DU]. [Add para explaining these.]
+
+Other prerequisits are, of course, money, banks, contracts and other norms of a financial and contract-based society. 
+
+What is remarkable from our 21st century point of view is how absolutely normal these are - much of the maths involved in these is now taught in schools. Yet the entire life insurance industry dependend on these. And, in common with our observation of Madrid vs Ambsterdam [CHECK THIS], it's what this enables which is as interseting as what it is itself. 
+
+[CHECK THIS] Once a family have life insurance for the main bread winner, presumably they are more comfortable making commitments which depend on that income. Without it, that money would be locked up as risk mitigation. We can see a similar pattern to the creation of credit by decoupling bank deposits from the money the bank can issue in loans. Whatever your view on the morality and sustainability of this, th decoupling of one form of money from another does allow a flod of new activity. The same thing, it seems is true of life insurance. [MUST GET STATS ON THIS]
+
+p358. *Use this quote* ~Money is a mirror of mankind.
+
+Money is well associated with corrupt behaviour. Money may be one of a handful for things in life that humans seem willing to bend and corrupt their moral compass, seemingly willing to do almost anything for a bit more. When we have a society where people don't just have the option of making money but have to make money (for example, to pay for rent, increasing price of food, safety etc) we ask fewer and fewer questions over the ethics of the work and the 2nd, 3rd, and nth order impacts of the work we are doing.
+
+That's a big discussion which is beyond the scope of this book, but there's something worth noticing with the ways in which money can corrupt and they types of money involved in allowing the corruption to take place. Global trade of commodities such as sugar, cotton and slaves was made possibly in part by financialisation at a scale not previously possible. If we take the idea of that money is a mirror of mankind but we also add in the fact that all this trade was also made possible by a confluence of inventions (such as sailing, steam, etc) then perhaps it's not money which is the mirror but all layers of innovation.
+
+The question this raises is: perhaps all new inventions, disruptions/innovations are a different mirror of mankind. Each time there is a new idea or new invention and new flow of value, humans have another chance to reflect on who they really are. _This question has to carry over into the main body of the book_
+
+..
+
+Bitcoin.
+
+One of the most interesting and, more recently, contencious innovations in money has be cryptocurrency.
+
+It's instructive to take a much more considered view of cryptocurrency based on what we're learning about how innovations and disruptions embed themselves into society. We've only had about a decade of this idea in common use, and it's based on a relatively new network (the internet). Before we judge cryptocurrency as an idea and perhaps bitcoin specifically, let's see what questions the evolution of bitcoin raises for us in our mission to understand disruption.
+
+p10. "Where money comes from".
+The bitcoin community, and the cypherpunks before them saw was that they questioned what it was money had become. As we've seen in a short history of money, it's not obvious what money is and there are more types of money that simple the thing you use to buy stuff with. And on top of each of those types of money, there are secondary networks of value which aren't open to all of us. There's an insight here that the bitcoin/crypto community had that is a parallel to the Amsterdam [??] Bank, perhaps: if we create a new common way of trade we can create new forms of value on top of this. For Amsterdam the common way of trade was common currency accounts. For bitoin and crypto, it requires building a new form of digital money.
+
+But in order to get to the conclusion that a new form of money is required, they first needed to see through what was already there. They couldn't just build on what everyone else was using. This is an interesting twist - perhaps not all innovation builds on top of the latest and most common innovation. If there was, bitcoin and crypto would have built on top of the existing fiat currencies and the existing banking systems. Our S-curves of adoption might not be so simple.
+
+p14. [My notes: "Yap. Big rocks." WTF...?!]
+We also see that the crypto community saw that the concept of money was not static. This is backed up by our short history of money. While we have nice, neat definitions of what money is, these are only good for the examples the world has seen and taken seriously so far. The phenomenon I believe we're seeing here is a definition problem: we define things based on what we are aware of and then we categorise the world based on that. When something comes along which challenges that, often by first digging deeper into where that defintion came from then that something can play havoc with our definitions and categories. _Carry this question over into the main body of the book. This is all about definition of style._
+
+p19. Previous versions of digital money.
+[haven't got notes on this].
+Bitcoin is the version of digital money which broken through and achieve global reach and recognition, but it's not the first idea of digital money and is not the first time people have thought of such a thing.
+
+Failed attempts are important. We spend a lot of time discussing why one thing won over another and what it means about life, society, humans, etc etc. But perhaps the question we need to ask is: _what do the previous/failed attempts at something mean?_
+
+p32. Cyperpunks.
+The cyperpunks lived on messaging boards in the [which years???]. At the time, the number of people on these boards was [GET THIS] X% of the population. The number of people who knew about these ideas was vanishingly small. Around this time, the ideas of innovation in money were [GET THIS].
+
+Here's another interesting question: why is it that this innovation came out of the shaddows? Wouldn't it make sense that the place where the information sits - the banking sector - is where the innovation should come from. Of course, if you've worked in anything like this you'll have quick answers as to why this isn't the case but from the outside it's not obvious why the innovations and disruptions don't come from the incumbents.
+
+--
+
+Bank 2.0
+
+Internet trading. When trading of stocks on the internet started being opened up to consumers, it was often done under the idea of "democratising investment". ("Democratising" is short hand for making something available to more people - I haven't researched this, but I assume the use of a word related to "democratic" is partly because the underlying idea is taken to be inherently good.) Years later, we have apps like Rohinhood which saw [get a short history of this], effectively encouraging people to invest in numbers which were going up rather than the underlying value of anything. Perhaps this is tullip mania all over again, just like the first Dot Com book. Bubbles, after all, will happen again and again.
+
+What questions / ideas does this leave us with? As layers of innovations and disruptions emerge, how do we know which ones are good and which ones are bad? Or, perhaps we need a less judgemental view of this.
+
+Maybe we need to look, not at the goodness or badness of each potential innovation or disruption but at the nth order impacts - what these impacts might be, who they might impact and the extent. _Carry this question into main body of the book. I don't know the answer though._
+
+p225. "Banks have cost-cut...", "status quo"
+What we learn from the behaviour of the banks during the first phase of digital disruption on finance was that, [quote] they cut costs and focus on the status quo. This gives us the question of: why do the incumbents behave like this and why, despite so many historical examples of this behaviour resulting in long term harm is this behaviour repeated?
+
+But these behaviours are not about complex decisions - they are simple things like what should be displayed on the bank's website. [Get examples from the book - ideally interview Brett ??, author of Bank 2.0/3.0/4.0]. Anyone who's worked in anything customer-facing will be familiar with the experience that decisions are made from the business's point of view rather than what the customer actually wants. Simple things like what is useful to a customer on a website doin't factor into the priorities and decisions of the bank because, for one, the bank defines itself as dealing with customers through branches and not through websites. Websites are a necessary evil but not a point of value, from the incumbents point of view. Once the idea that this new thing has low value, all resourcing and priortisation decisions make this an inconvenence.
 
 --
 
@@ -553,6 +642,8 @@ Tablets / tokens
 East India company - way of doing transactions on paper (which 'disrupts' the need for movement of hard cash)
 PayPal
 Crypto
+
+_Add list of the questions about disruption which banking/money/finance leaves us with_
 
 
 
