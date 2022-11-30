@@ -5,8 +5,11 @@ _This draft is for feedback - I just need coherent words and some good examples 
 
 Plan:
 1. Music example of disruption (briefly)
+
 2. Non-music examlpes of disruption
+
 3. Temper the argument - not everything has changed, but sometimes it does
+
 4. We can use music as a lens because what we see in the arguments for/against disruption of this industry and what we see in the human and market behaviours (I think) applies to many other industries.
 
 What is industry disruption? Is it simply the how we replace computers with smartphones, or (for those who remember) how we moved from records to CDs and (briefly) to minidisk? Or how we moved from bookshops to Amazon, or record shops and then internet piracy to Spotify. Isn't it what explains why Kodak went out of business when digital cameras were introduced? And isn't disruption why everyone is now having to go through digital transformation programs and why every company insists on having an app?
@@ -106,6 +109,8 @@ As you dig into why an industry is disrupted you go through layers and layers of
 
 ## Non-music examples of disruption
 
+// TASK: 1-2 pages which list a bunch of obvious disruptions and some less so. Get across the idea that this happens all the time we just don't notice it. Perhaps start with some kind of hook / story which makes the reader realise how this happens lots. Or take the opposite tack: suggest that there have only been a few disruptions and then this section disproves that. Not sure... 
+
 ### Boats & Roads
 
 All the stories of tech startups, new scientific inventions and feature wars don’t compare with the simplicity of disruption which took place in Kinsale. The canonical disruption stories are predicated on new technologies and complex business models which, I find, confuse us from the simplicity of the situation.
@@ -172,8 +177,6 @@ The brige was built.
 ### Money
 
 _Banking, Money, Trade and Crypto_
-
-*TASK: More research into history of money*
 
 (Money - book). Money should be affordable, durable, fungible, portable, reliable. This is why we adopted metals like gold, silver and bronze.
 
@@ -347,7 +350,7 @@ _Add list of the questions about disruption which banking/money/finance leaves u
 
 
 
-### Broadcasting
+### #NEXT Broadcasting
 
 _Information platforms & broadcast media_
 
@@ -370,7 +373,7 @@ As we see progression of the information platforms, we see that new nuances are 
 If we go back
 
 
-### Communication
+### #NEXT Communication
 
 _Networks of communication_
 
@@ -473,7 +476,7 @@ If it feels clunky and buggy now, just remember what the internet felt like in t
 
 The question we take into our exploration of music, is how to think about identity. Why is it that AI is challenging what it means to be human? Why is the question of identity coming up at all?
 
-### Devices (Smartphones, laptops)
+### #NEXT Devices (Smartphones, laptops)
 
 _Smartphone vs laptop/desktops_
 
@@ -497,7 +500,7 @@ My contention is that to learn about how Apple pivoted from one technology to an
 
 What underlies this is a believe that the creativity of the human brain is working in the same way across many domains. 
 
->>Get some stats on this. 
+//Get some stats on this. 
 
 //Apple created a new place for new value. 
 //Use the picture of all the things which ended upon on the smartphone. 
@@ -591,12 +594,6 @@ Increased time online
 massive decrease in foot fall. Thisis very easy to visualise but it's a direct example of "flows of value" <-- i need to introduce this idea without using that phrase too early.
 
 
-### *Slave trade*
-
-*Move this to ~last*
-
-Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
-
 
 
 ## Temper the argument
@@ -627,7 +624,28 @@ Old vs new value. New value is not necessarily better or worse than old. A lot o
 New / disruptive value doesn't mean that fundamental good business practice disappears. The Dot Com boom, which saw valuations detacted from reality or the Tullip mania [of the XXXX century] show that we lose track of reality. We are in a closed system - finite resources, finite time and a biological need to eat, socialise and provide for ourselves. This means that, while you can borrow from the future you do have to pay it back.
 
 
+## Slave trade; Climate; Migration
+
+*Move this to ~last*
+
+Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
+
+These kinds of change happen all the time.
+
+Disruption can mean a bit of a shift in how we consume something or the theft of natural resources and lives. Putting a smartphone app and geopolitics on the same axis might be extreme - I'm not really sure how this will fair, but from the examples we've seen there are common questions around the flows of value and [ADD MORE]
+
 
 ## Using Music as a lens
 
 Throughout this book, we will see examples from many industries but with each phenomenon, music will be our starting point. 
+
+## Summary - what we want to answer / explore
+
+// *TASK: Summarise the open questions / threads of thought from each sector/market/example.*
+
+
+## Humans reasons we don't like or understand change
+
+
+// *TASK: Do I need a section or chapter on this? Maybe this is part of the book's conclusion?*
+

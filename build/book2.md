@@ -12,7 +12,7 @@ header-includes: |
 fontsize: 9pt
 ---
 **BUILD DATE: 
-Wed 30 Nov 2022 22:03:46 GMT
+Wed 30 Nov 2022 22:47:03 GMT
 **
 \newpage ** _Blank page_ **
 # Music Lessons - on one page
@@ -198,8 +198,11 @@ _This draft is for feedback - I just need coherent words and some good examples 
 
 Plan:
 1. Music example of disruption (briefly)
+
 2. Non-music examlpes of disruption
+
 3. Temper the argument - not everything has changed, but sometimes it does
+
 4. We can use music as a lens because what we see in the arguments for/against disruption of this industry and what we see in the human and market behaviours (I think) applies to many other industries.
 
 What is industry disruption? Is it simply the how we replace computers with smartphones, or (for those who remember) how we moved from records to CDs and (briefly) to minidisk? Or how we moved from bookshops to Amazon, or record shops and then internet piracy to Spotify. Isn't it what explains why Kodak went out of business when digital cameras were introduced? And isn't disruption why everyone is now having to go through digital transformation programs and why every company insists on having an app?
@@ -290,18 +293,7 @@ And now we get to the nub of the point:
 
 Why didn't they just do something different?
 
->>> #NEXT Carry on from here <<<
-
-..
-
-
-
-
-#NEXT: 4-6 pages summary of key things from this.
-
-*TASK: Write a summary*
-
-Introduce the idea here.
+_TASK: MORE NEEDED HERE_
 
 This is talked about a lot, but most writing about this is either academic or quite theoretical. In fact, being practical about the innovator's dilemma is extremely hard.
 
@@ -323,6 +315,12 @@ As you dig into why an industry is disrupted you go through layers and layers of
 \newpage
 
 ## Non-music examples of disruption
+
+\noindent\fbox{%
+\parbox{\textwidth}{
+// TASK: 1-2 pages which list a bunch of obvious disruptions and some less so. Get across the idea that this happens all the time we just don't notice it. Perhaps start with some kind of hook / story which makes the reader realise how this happens lots. Or take the opposite tack: suggest that there have only been a few disruptions and then this section disproves that. Not sure... 
+}
+}
 
 \newpage
 
@@ -388,92 +386,14 @@ One last point before we get into more modern frames of reference:
 
 The brige was built.
 
-\newpage
-
-### *Amazon and publishers.*
-
-Music could be disrupted by the internet because the raw material of music - sound - is easily captures and disrupted. Books should have followed the same pattern but something about the way we consumer books in all its forms meant it didn't follow quite the same. 
-
-Slightly inferiour copies of music using the new mp3 technology of the 90s [check] compared favourably with the CDs and tapes we'd become used to. Perhaps there was a little loss of quality, but overall the gist of the experience remained the same. But books seem different.
-
-The battle, as its termed by the incumbents, was similar though. 
-
-Project Gutenburg, started by Michael Hart in [??] to [digitise public domain material] was the preserve of enthusiasts and nerds. Whether it was from this project or somewhere else, I certainly remember downloaded reems and reems of public material and printing it out in 8-point to reduce the number of pages I had to pay for. The behaviour of early adopters doesn't always translate into the behaviour of masses though, and this kind of effort of searching, downloading, reformating and printing was very unlikely to ever be adopted by the masses.
-
-..
-
-ebooks were first popularised when devices allowed the end-to-end experience to be seemless. To anyone who had been using the internet to find and read material, it made perfect sense that the internet would be the distribution platform for books. What seemed to be missing was the consumer experience. There are important lessons here.
-
-Amazon, with their Kindle, Google with search and Apple with iPad all created ways of closing the gap between the consumer impulse and discovering (and possibly buying) a book.
-
-- “We had high hopes that this would happen eventually, but we never imagined it would happenthis quickly,” said Jeff Bezos, Amazon’s chief executive, in a statement. “We’ve been sellingprint books for 15 years and Kindle books for less than four years.”
-
-This quickly became controvertial as each of Amazon, Google and Apple did things which the publishers and authors, who own of the intellectual property, found objectionable. These include allowing ebooks to undercut the price of physical books (which creates incentives to buy digital rather than physical), providing free search-inside via Google search and other price fixing practices.
-
-\noindent\fbox{%
-\parbox{\textwidth}{
-//
-}
-}
-
-Amazon had developed the ebook specifically for reducing the steps consumers needed to take to search, buy and read a book. In their case, the technology was developed around the user need of searching and reading. When they created the Kindle marketplace and the user base, this was created in the private domain. These are Amazon users on Amazon devices. 
-
-This enabled them to play with the pricing and distributino / access rules however they liked. They can set prices - initially prices were set below market rate, undercutting the publishers and authors but, presuambly providing utility to consumers. 
-
-Google created a similar environment for themselves; once user are coming to the Google search box every day and expecting good search results, Google could add a little more value here and there. When a user is doing a Google search, they are very unlikely to go to another site to do a book search. The entire experience is inherenetly owned by Google. 
-
-Google's missions, to organise the world's information and make it searchable, is clear to users and helpful. There is no user who wants to spend longer finding the thing they're looking for, so the value of Google is instantly understandable to users once they realise how much information is in the world. Adding books onto this isn't a huge leap.
-
-Apple, lastly, had created first the iPod then iPhone and then iPad. With each of these, they realised either right away or soon after that the secondary value to the core product could be gigantic. The iPod led to interesting reasons for non-Apple users to have at least one Apple device because that's where all the great music was and, when iTunes was available for PCs, why not buy this as it's the only decent music player.
-
-Apple did with the iPod what Amazon did with the Kindle, but each was approaching a different user problem and from the point of view of a different type of company. This is important because the type of company you are affects the kinds of things you see as valuable for customers, for the world and for yourself.
-
-When tech commentators talk about Google being an information or AI company, Apple being a hardware company and Facebook being ad company there is more to these comments than simply explaining how they tend to make their money. The kind of company you are affects where you see and exploit value.
-
-And this is what we saw. Each of these new entrants into publishing - Amazon, Google and Apple - looked at books from a different angle. Amazon saw books initially as a good category of product to sell on the internet and then it saw ebooks as a way providing extra value to users within the Amazon ecosystem. They were able to analyse which pages on which books were actually read and even which sections were highlighted. This was a far, far closer relationship between provider and reader than publishers had ever had.
-
-Google saw books as a way of adding value to the user of search. Users clearly want to be able to search through all of the world's information, so why not allow them to search through books and view the results? Especially if the books are public domain. This leads to more use of Google's search.
-
-And Apple wanted more reasons to use iPad, the iPhone and other Apple devices. If users can find, buy and read on Apple devices then the utility of those devices increases.
-
-Amazon wants you buying from Amazon. Google wants you searching on Google. Apple wants you using Apple devices. None of this is controversial. Statements like this are either implicity but not hidden or stated openly in their strategies and, because each of these companies had built up a large user base whenever they introduced something new into it the effect was outsized. 
-
-This didn't lead directly to the surge in ebooks, but it certainly enabled it. The publishing world should have been looking at the internet and the growth of reading devices (such as Kindle, iPad and smartphones) as the creation of potential sources of value for readers. No amount of saying that _people prefer to read on paper_ matters when people discover they can take one kindle on holiday instead of a suitcase of books.
-
->>TODO: Add a new lesson to "value". New value is seen by new entrants.
-
->>TODO: Make sure (in "value") there is "potential value", which is something incumbents must pay attention to. 
-
-
-When researching for this book, I was surprised by how unresolved this matter seems. Even at the start of 2022, Amazon and publishers hae been accused of price fixing ebooks.
-
-> Jan 2022 - "Amazon.com and the “Big Five” publishers – Penguin Random House, Hachette, HarperCollins, Macmillan and Simon & Schuster – have been accused of colluding to fix ebook prices, in a class action filed by the law firm that successfully sued Apple and the Big Five on the same charge 10 years ago."
-
-In the cases, going back more than a decade [check] the publishers acuse Amazon and Google of not playing on a level playing field. They acuse the new entrants of using their overly strong market power to use predatory pricing and "systematic below-cost pricing of books to squash competition in the book selling industry as a whole".
-
-What quesitons does this give us?
-
-1. Why didn't the publishers build this for themselves? The technology was well known and the idea of ebooks has been thought of for years. In the 1990s, the publishes were stronger than they are now. So perhaps there's a lesson about incuments or competitors acting together.
-
-2. Why did publishers and other book lovers bother talking about how print is better than screens/e-ink? In the long run, being right didn't matter more than actually building the thing.
-
-3. The internet un-levelled the playing field. Despite the publishers complaining about Amazon's practices, the fact that publishers deliberately release the more expensive hardback book following by cheaper paperback and ebooks is, itself, a form of price fixing. There's something about the status quo being fair and level until something comes along and makes it clear why things aren't fair and level.
-
-4. Do things converge to fair over the long term? Or does the market stay skewed? This isn't at all clear and looking at the exmaples of music and ebooks, it's not clear that we have ended anywhere "fair" so perhaps we need to look at how markets (of various kinds) pan out over the medium and long term. 
-
-5. Is a fair, level market good for innovation and progress?
-
-6. How you define unfair depends on how you define a market. This is somewhat intellectual slight of hand, but it's not wrong.
-
-7. Many articles about Amazon vs publishers, talk about the "fight" the publishers are putting up. On what fronts do incumbents tend to fight and is this worth doing when the new intrant will have created new flows of value, effectively reframing the entire question?
-
 
 \newpage
 
-### *Banking, Challenger banks & Crypto // sending money*
+### Money
 
-#NEXT: More research into history of money
-#NEXT: Make notes from the various books and sources
+_Banking, Money, Trade and Crypto_
+
+*TASK: More research into history of money*
 
 (Money - book). Money should be affordable, durable, fungible, portable, reliable. This is why we adopted metals like gold, silver and bronze.
 
@@ -647,46 +567,59 @@ _Add list of the questions about disruption which banking/money/finance leaves u
 
 
 
+\newpage
+
+### Broadcasting
+
+_Information platforms & broadcast media_
+
+One of the 2nd order effects of computing has been increased communication platforms. When we think of communication, we probably think of things like the telephone, email and social media.
+
+However, like computing itself it's better to see the trend of these platforms as a continuation of the human need to communicate and to broadcast information. This allows us to ignore the specific technologies and look more at the implications of the technologies and, more importantly, the 2nd/3rd/nth order effects.
+
+We will look at broadcasting first. Broadcasting is the human need to get a message across to many people.
+
+Theatre
+Email lists
+Blogs
+Social - sub-groups
+YouTube
+TikTok
+
+As we see progression of the information platforms, we see that new nuances are important. TikTok is, in effect the same as YouTube but the arrangement of the information within the medium (video on mobile device) brings new nuances. These naunces are easy to ignore if you're being disrupted - it all looks like same: video on you own website, on Vimeo, on YouTube, or TikTok is all video. Except that the progression introduces nuance.
+
+
+If we go back
+
 
 \newpage
 
-### *Smartphone vs laptop/desktops*
-In the previous example, we looked at a series of technologies under the heading of "communication" technology but this undersells the impact they had. Landline phones didn't just allow communication between people, it allowed trading of stocks around the world - or maybe it was the telegraph which enabled that. Either way, the communication technology allowed the communication of very different types of messages which have very different types of value. Phoning your uncle in another country to talk about your visit has a very different impact to spending 4 hours on a transatlantic call to negotiate buying a company.
+### Communication
 
-The shift from desktops/laptops to smartphone did exactly this. The smartphone didn't just absorb the value that landline phones previously held, but myriad other things. Music, photography, socialising, film, banking and many other things.
+_Networks of communication_
 
-The interesting thing is that this value was finally, after a few false starts put into the marketplace by Apple. The false starts [...General Magic...].
+(This is not broadcast communication - this is 2-way / discussion etc)
+Writing (as a technology)
+Travelling
+Letters / postal service
+Telegraph
+Landline phone
+Mobile phone
+Computer - fixed internet
+Smartphone
+...then where? VR/AR?
+    https://www.linkedin.com/pulse/auracast-evolution-earbud-case-nick-hunn/?trackingId=w1C4oIq7i5slvSpG%2FuWC2A%3D%3D
 
-The important observation here is the shift in Apple's own value from computers to smartphones, and the many layers of value which were built on top of that.
+How do we measure the "improvements"? Cost, speed, density of information / bandwidth, network size.
 
-They were able to create their own value. 
+Measuring improvements quickly leads to the intuition that each wave of disruption is not necessarily an improvement. We know this because we have in person meetings when we need to convey more but email when the information is (perhaps) more routine. 
 
-This is a story which has been picked apart a million times and I don't think analysing this is going to bring new insight. What we need to ask was, what way of seeing the world did they have which allowed them to move so confidently into an area that they had tried and failed in before? (The smartphone was basically a PDA, which the Newton was but that failed.)
 
-The easy thing to do here is to look at what people at Apple did to create the iPhone. This is what a lot of business books do - they give you case studies in how the people who did the thing did the thing. That's perfectly useful and you should read those books, but that's not what we're going to do here. I don't think that's a particularly useful exercise because you end up cargo culting [introduce the idea here or earlier on - maybe in the intro with all the silly things that organisations do]. What we need to ask is: what were the deeper ideas or motivations which allowed Apple to detact itself from being in the business of building desktop computers and allowed it to build a new generation of computing?
 
-In order to answer a question like this, case studies won't entirely answer the question because each case study is a sample of what happened. It's an example of one set of humans in one circumstance who reacted in one partciular way. If you know any amount of statistics you know that one measurement is not data - annecdote is not the same as data.
-
-My contention is that to learn about how Apple pivoted from one technology to another we need to look at how other pivots have happened - in this book we will us music and explore how pivots from one instrument to another, from one musical system to another, from one form of music to another. 
-
-What underlies this is a believe that the creativity of the human brain is working in the same way across many domains. 
-
->>Get some stats on this. 
-
-\noindent\fbox{%
-\parbox{\textwidth}{
-//Apple created a new place for new value. 
-}
-}
-\noindent\fbox{%
-\parbox{\textwidth}{
-//Use the picture of all the things which ended upon on the smartphone. 
-}
-}
 
 \newpage
 
-### AI's impact*
+### Machines for thinking (AI)
 
 (See sources: Chapter Zero; AI)
 (Take some examples from Illustrated history)
@@ -766,48 +699,139 @@ If it feels clunky and buggy now, just remember what the internet felt like in t
 
 The question we take into our exploration of music, is how to think about identity. Why is it that AI is challenging what it means to be human? Why is the question of identity coming up at all?
 
+\newpage
+
+### Devices (Smartphones, laptops)
+
+_Smartphone vs laptop/desktops_
+
+In the previous example, we looked at a series of technologies under the heading of "communication" technology but this undersells the impact they had. Landline phones didn't just allow communication between people, it allowed trading of stocks around the world - or maybe it was the telegraph which enabled that. Either way, the communication technology allowed the communication of very different types of messages which have very different types of value. Phoning your uncle in another country to talk about your visit has a very different impact to spending 4 hours on a transatlantic call to negotiate buying a company.
+
+The shift from desktops/laptops to smartphone did exactly this. The smartphone didn't just absorb the value that landline phones previously held, but myriad other things. Music, photography, socialising, film, banking and many other things.
+
+The interesting thing is that this value was finally, after a few false starts put into the marketplace by Apple. The false starts [...General Magic...].
+
+The important observation here is the shift in Apple's own value from computers to smartphones, and the many layers of value which were built on top of that.
+
+They were able to create their own value. 
+
+This is a story which has been picked apart a million times and I don't think analysing this is going to bring new insight. What we need to ask was, what way of seeing the world did they have which allowed them to move so confidently into an area that they had tried and failed in before? (The smartphone was basically a PDA, which the Newton was but that failed.)
+
+The easy thing to do here is to look at what people at Apple did to create the iPhone. This is what a lot of business books do - they give you case studies in how the people who did the thing did the thing. That's perfectly useful and you should read those books, but that's not what we're going to do here. I don't think that's a particularly useful exercise because you end up cargo culting [introduce the idea here or earlier on - maybe in the intro with all the silly things that organisations do]. What we need to ask is: what were the deeper ideas or motivations which allowed Apple to detact itself from being in the business of building desktop computers and allowed it to build a new generation of computing?
+
+In order to answer a question like this, case studies won't entirely answer the question because each case study is a sample of what happened. It's an example of one set of humans in one circumstance who reacted in one partciular way. If you know any amount of statistics you know that one measurement is not data - annecdote is not the same as data.
+
+My contention is that to learn about how Apple pivoted from one technology to another we need to look at how other pivots have happened - in this book we will us music and explore how pivots from one instrument to another, from one musical system to another, from one form of music to another. 
+
+What underlies this is a believe that the creativity of the human brain is working in the same way across many domains. 
+
+\noindent\fbox{%
+\parbox{\textwidth}{
+//Get some stats on this. 
+}
+}
+
+\noindent\fbox{%
+\parbox{\textwidth}{
+//Apple created a new place for new value. 
+}
+}
+\noindent\fbox{%
+\parbox{\textwidth}{
+//Use the picture of all the things which ended upon on the smartphone. 
+}
+}
 
 \newpage
 
-### Information platforms and broadcast media
+### Amazon vs publishers
 
-One of the 2nd order effects of computing has been increased communication platforms. When we think of communication, we probably think of things like the telephone, email and social media.
+Music could be disrupted by the internet because the raw material of music - sound - is easily captures and disrupted. Books should have followed the same pattern but something about the way we consumer books in all its forms meant it didn't follow quite the same. 
 
-However, like computing itself it's better to see the trend of these platforms as a continuation of the human need to communicate and to broadcast information. This allows us to ignore the specific technologies and look more at the implications of the technologies and, more importantly, the 2nd/3rd/nth order effects.
+Slightly inferiour copies of music using the new mp3 technology of the 90s [check] compared favourably with the CDs and tapes we'd become used to. Perhaps there was a little loss of quality, but overall the gist of the experience remained the same. But books seem different.
 
-We will look at broadcasting first. Broadcasting is the human need to get a message across to many people.
+The battle, as its termed by the incumbents, was similar though. 
 
-Theatre
-Email lists
-Blogs
-Social - sub-groups
-YouTube
-TikTok
+Project Gutenburg, started by Michael Hart in [??] to [digitise public domain material] was the preserve of enthusiasts and nerds. Whether it was from this project or somewhere else, I certainly remember downloaded reems and reems of public material and printing it out in 8-point to reduce the number of pages I had to pay for. The behaviour of early adopters doesn't always translate into the behaviour of masses though, and this kind of effort of searching, downloading, reformating and printing was very unlikely to ever be adopted by the masses.
 
-As we see progression of the information platforms, we see that new nuances are important. TikTok is, in effect the same as YouTube but the arrangement of the information within the medium (video on mobile device) brings new nuances. These naunces are easy to ignore if you're being disrupted - it all looks like same: video on you own website, on Vimeo, on YouTube, or TikTok is all video. Except that the progression introduces nuance.
+..
+
+ebooks were first popularised when devices allowed the end-to-end experience to be seemless. To anyone who had been using the internet to find and read material, it made perfect sense that the internet would be the distribution platform for books. What seemed to be missing was the consumer experience. There are important lessons here.
+
+Amazon, with their Kindle, Google with search and Apple with iPad all created ways of closing the gap between the consumer impulse and discovering (and possibly buying) a book.
+
+- “We had high hopes that this would happen eventually, but we never imagined it would happenthis quickly,” said Jeff Bezos, Amazon’s chief executive, in a statement. “We’ve been sellingprint books for 15 years and Kindle books for less than four years.”
+
+This quickly became controvertial as each of Amazon, Google and Apple did things which the publishers and authors, who own of the intellectual property, found objectionable. These include allowing ebooks to undercut the price of physical books (which creates incentives to buy digital rather than physical), providing free search-inside via Google search and other price fixing practices.
+
+\noindent\fbox{%
+\parbox{\textwidth}{
+//
+}
+}
+
+Amazon had developed the ebook specifically for reducing the steps consumers needed to take to search, buy and read a book. In their case, the technology was developed around the user need of searching and reading. When they created the Kindle marketplace and the user base, this was created in the private domain. These are Amazon users on Amazon devices. 
+
+This enabled them to play with the pricing and distributino / access rules however they liked. They can set prices - initially prices were set below market rate, undercutting the publishers and authors but, presuambly providing utility to consumers. 
+
+Google created a similar environment for themselves; once user are coming to the Google search box every day and expecting good search results, Google could add a little more value here and there. When a user is doing a Google search, they are very unlikely to go to another site to do a book search. The entire experience is inherenetly owned by Google. 
+
+Google's missions, to organise the world's information and make it searchable, is clear to users and helpful. There is no user who wants to spend longer finding the thing they're looking for, so the value of Google is instantly understandable to users once they realise how much information is in the world. Adding books onto this isn't a huge leap.
+
+Apple, lastly, had created first the iPod then iPhone and then iPad. With each of these, they realised either right away or soon after that the secondary value to the core product could be gigantic. The iPod led to interesting reasons for non-Apple users to have at least one Apple device because that's where all the great music was and, when iTunes was available for PCs, why not buy this as it's the only decent music player.
+
+Apple did with the iPod what Amazon did with the Kindle, but each was approaching a different user problem and from the point of view of a different type of company. This is important because the type of company you are affects the kinds of things you see as valuable for customers, for the world and for yourself.
+
+When tech commentators talk about Google being an information or AI company, Apple being a hardware company and Facebook being ad company there is more to these comments than simply explaining how they tend to make their money. The kind of company you are affects where you see and exploit value.
+
+And this is what we saw. Each of these new entrants into publishing - Amazon, Google and Apple - looked at books from a different angle. Amazon saw books initially as a good category of product to sell on the internet and then it saw ebooks as a way providing extra value to users within the Amazon ecosystem. They were able to analyse which pages on which books were actually read and even which sections were highlighted. This was a far, far closer relationship between provider and reader than publishers had ever had.
+
+Google saw books as a way of adding value to the user of search. Users clearly want to be able to search through all of the world's information, so why not allow them to search through books and view the results? Especially if the books are public domain. This leads to more use of Google's search.
+
+And Apple wanted more reasons to use iPad, the iPhone and other Apple devices. If users can find, buy and read on Apple devices then the utility of those devices increases.
+
+Amazon wants you buying from Amazon. Google wants you searching on Google. Apple wants you using Apple devices. None of this is controversial. Statements like this are either implicity but not hidden or stated openly in their strategies and, because each of these companies had built up a large user base whenever they introduced something new into it the effect was outsized. 
+
+This didn't lead directly to the surge in ebooks, but it certainly enabled it. The publishing world should have been looking at the internet and the growth of reading devices (such as Kindle, iPad and smartphones) as the creation of potential sources of value for readers. No amount of saying that _people prefer to read on paper_ matters when people discover they can take one kindle on holiday instead of a suitcase of books.
+
+>>TODO: Add a new lesson to "value". New value is seen by new entrants.
+
+>>TODO: Make sure (in "value") there is "potential value", which is something incumbents must pay attention to. 
 
 
-If we go back
+When researching for this book, I was surprised by how unresolved this matter seems. Even at the start of 2022, Amazon and publishers hae been accused of price fixing ebooks.
+
+> Jan 2022 - "Amazon.com and the “Big Five” publishers – Penguin Random House, Hachette, HarperCollins, Macmillan and Simon & Schuster – have been accused of colluding to fix ebook prices, in a class action filed by the law firm that successfully sued Apple and the Big Five on the same charge 10 years ago."
+
+In the cases, going back more than a decade [check] the publishers acuse Amazon and Google of not playing on a level playing field. They acuse the new entrants of using their overly strong market power to use predatory pricing and "systematic below-cost pricing of books to squash competition in the book selling industry as a whole".
+
+What quesitons does this give us?
+
+1. Why didn't the publishers build this for themselves? The technology was well known and the idea of ebooks has been thought of for years. In the 1990s, the publishes were stronger than they are now. So perhaps there's a lesson about incuments or competitors acting together.
+
+2. Why did publishers and other book lovers bother talking about how print is better than screens/e-ink? In the long run, being right didn't matter more than actually building the thing.
+
+3. The internet un-levelled the playing field. Despite the publishers complaining about Amazon's practices, the fact that publishers deliberately release the more expensive hardback book following by cheaper paperback and ebooks is, itself, a form of price fixing. There's something about the status quo being fair and level until something comes along and makes it clear why things aren't fair and level.
+
+4. Do things converge to fair over the long term? Or does the market stay skewed? This isn't at all clear and looking at the exmaples of music and ebooks, it's not clear that we have ended anywhere "fair" so perhaps we need to look at how markets (of various kinds) pan out over the medium and long term. 
+
+5. Is a fair, level market good for innovation and progress?
+
+6. How you define unfair depends on how you define a market. This is somewhat intellectual slight of hand, but it's not wrong.
+
+7. Many articles about Amazon vs publishers, talk about the "fight" the publishers are putting up. On what fronts do incumbents tend to fight and is this worth doing when the new intrant will have created new flows of value, effectively reframing the entire question?
+
 
 
 \newpage
 
-### *Disruption and evolution of information / communication*
+### Uber vs taxis
 
-(This is not broadcast communication - this is 2-way / discussion etc)
-Travelling
-Letters / postal service
-Telegraph
-Landline phone
-Mobile phone
-Computer - fixed internet
-Smartphone
-...then where? VR/AR?
-    https://www.linkedin.com/pulse/auracast-evolution-earbud-case-nick-hunn/?trackingId=w1C4oIq7i5slvSpG%2FuWC2A%3D%3D
+Have a few of the canonical examples of digital disruption.
 
-How do we measure the "improvements"? Cost, speed, density of information / bandwidth, network size.
+\newpage
 
-Measuring improvements quickly leads to the intuition that each wave of disruption is not necessarily an improvement. We know this because we have in person meetings when we need to convey more but email when the information is (perhaps) more routine. 
+### AirBnB vs hotels
 
 \newpage
 
@@ -818,14 +842,6 @@ These forms of disruption change the flow of value
 Increased time online
 massive decrease in foot fall. Thisis very easy to visualise but it's a direct example of "flows of value" <-- i need to introduce this idea without using that phrase too early.
 
-
-\newpage
-
-### *Slave trade*
-
-*Move this to ~last*
-
-Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
 
 
 
@@ -859,12 +875,47 @@ Old vs new value. New value is not necessarily better or worse than old. A lot o
 New / disruptive value doesn't mean that fundamental good business practice disappears. The Dot Com boom, which saw valuations detacted from reality or the Tullip mania [of the XXXX century] show that we lose track of reality. We are in a closed system - finite resources, finite time and a biological need to eat, socialise and provide for ourselves. This means that, while you can borrow from the future you do have to pay it back.
 
 
+\newpage
+
+## Slave trade; Climate; Migration
+
+*Move this to ~last*
+
+Trading of slaves obviously disrupted, in an horrific way, the lives of millions of people. It happened because the enslavers realised they could capture value in one place and get new value for it elsewhere, a practice in trade called arbitrage; buy it cheap in one place in order to sell it for more elsewhere.
+
+These kinds of change happen all the time.
+
+Disruption can mean a bit of a shift in how we consume something or the theft of natural resources and lives. Putting a smartphone app and geopolitics on the same axis might be extreme - I'm not really sure how this will fair, but from the examples we've seen there are common questions around the flows of value and [ADD MORE]
+
 
 \newpage
 
 ## Using Music as a lens
 
 Throughout this book, we will see examples from many industries but with each phenomenon, music will be our starting point. 
+
+\newpage
+
+## Summary - what we want to answer / explore
+
+\noindent\fbox{%
+\parbox{\textwidth}{
+// *TASK: Summarise the open questions / threads of thought from each sector/market/example.*
+}
+}
+
+
+\newpage
+
+## Humans reasons we don't like or understand change
+
+
+\noindent\fbox{%
+\parbox{\textwidth}{
+// *TASK: Do I need a section or chapter on this? Maybe this is part of the book's conclusion?*
+}
+}
+
 \newpage ** _Blank page_ **
 
 # PART 1: WINDOWS & STRUCTURES
