@@ -12,7 +12,7 @@ header-includes: |
 fontsize: 9pt
 ---
 **BUILD DATE: 
-Wed 30 Nov 2022 22:47:03 GMT
+Thu  8 Dec 2022 20:36:07 GMT
 **
 \newpage ** _Blank page_ **
 # Music Lessons - on one page
@@ -355,8 +355,6 @@ The brige was built.
 
 _Banking, Money, Trade and Crypto_
 
-*TASK: More research into history of money*
-
 (Money - book). Money should be affordable, durable, fungible, portable, reliable. This is why we adopted metals like gold, silver and bronze.
 
 But even at the outset of looking at what money is, we start to notice that the way in which a money might be durable can change. And if money should be reliable, who exactly does this apply to? Reliable to everyone or just a few people? 
@@ -529,30 +527,72 @@ _Add list of the questions about disruption which banking/money/finance leaves u
 
 
 
-### Broadcasting
+### #NEXT Broadcasting
 
 _Information platforms & broadcast media_
 
-One of the 2nd order effects of computing has been increased communication platforms. When we think of communication, we probably think of things like the telephone, email and social media.
+In this section we consider the thread of innovation and change in information broadcasing platforms. This is a bit of an academic phrase. The reason i use it is to focus on the act of broadcasting information out. We'll look at two-way (or multi-direction) communication in the next section.
 
-However, like computing itself it's better to see the trend of these platforms as a continuation of the human need to communicate and to broadcast information. This allows us to ignore the specific technologies and look more at the implications of the technologies and, more importantly, the 2nd/3rd/nth order effects.
+Broadcasting information happens whenever one party has since kind of information dominance over another. This may or may not be a good thing, but we aren't concerned with the politics of broadcast here only the methods.
 
-We will look at broadcasting first. Broadcasting is the human need to get a message across to many people.
+One of the very obvious impacts of many technologies has been on increasing the volume and speed of broadcast communication. Computing has impacted this most recently and before that analogue communication in radio waves. Radio waves lead to TV. Computing leads to social media, email,  web and streaming. 
 
-Theatre
-Email lists
-Blogs
-Social - sub-groups
-YouTube
-TikTok
+It's more interesting and instructive, though, to look at older technologies which allowed broadcasting. By broadcasting, we mean the act of one party sending information to one or many. The receiving party might have a choice in whether to receive that information, but might not, and that depends on the technology (the "platform") more than the human need or want to broadcast. 
+
+As we track through these ways of broadcasting, its better to see the trend as a continuation of the human need to communicate and to broadcast information. This allows us to ignore the specific technologies and look more at the implications of the technologies and, more importantly, the 2nd/3rd/nth order effects.
+
+Perhaps the oldest form of broadcasting is one person speaking to many, which we could call "theatre" or "town crier". These come in formal settings such as a physical theatre or place where theatre takes place, and informal where someone becomes the broadcaster either through social hierarchies or through asymetry of information (for example, when I know there's a bear around the corner then I am the broadcaster because all of your need to listen to me).
+
+The way these are formalised might be interesting. I would argue that most broadcast spaces are built around giving one party physical broadcast dominance over the other. The stage is raised so the audience can see and hear. Because of the limits of our physical world (perhaps all physical worlds, but we don't know) we have to make this asymetrical; we cannot have as many audience members as performers as we can because of the physics of sound and light. (Well, we can, but the act of doing this would be a play on the asymetry.) So we start from the need to create asymetry. Maybe asymetry is useful in understanding broadcast.
+
+With the invention of writing, the asymetry is also built in. By definition, you will always have more readers than writers. This makes the act of writing a broadcasting act. But writing requires layers of enabling technology: something to write on, something to write with, somewhere to store the writing. And it requires a written language.
+
+An interesting series of new asymetries crops up here: the writer is always in the past and always has access to more first hand data than the reader; the writer may/would tend to be more educated than the reader (since reading is/was more common than writing); the writer's words, once written can be broadcast to many people by copying those words but the act of copying is amplifying what's already there, not creating anything new.
+
+(reading was more common than writing - Charlamagne??)
+
+Just by thinking about threatre and about writing, we've arrived at what look like universal truths of broadcast: the broadcaster is set above the audience; the broadcaster has to have access to skills or resources that the audience might not; the broadcaster is closer to the original work, and may be the creator of the original work.
+
+Broadcast technology widened out to print, books, newspapers, TV, blogs, online video and streaming. 
+
+Each of these embodies the truths of broadcast, but you can see that when you start hitting online video and streaming it becomes less clear whether this is because the act of broadcasting has been copied into the new digital medium or whether the medium is constrained to the act of broadcasting. Of course, it isn't constrained which is why live streamers, who will broadcast _and_ receive questions and discussion from their viewers slightly question the idea of what broadcasting is.
+
+If someone goes live on Facebook, YouTube or TikTok in order to respond to the questions, the value is in both the live streamer and the questions. 
+The comments on YouTube videos (in some communities) are as valuable as the original video. 
+
+Both of these social aspects are present in the older forms of broadcast - requests for songs for the performer to play; heckles; Q&As; open debates. Something seems to change as you shift from one medium to another, either in the nature of the broadcast, or the control, or something else.
 
 As we see progression of the information platforms, we see that new nuances are important. TikTok is, in effect the same as YouTube but the arrangement of the information within the medium (video on mobile device) brings new nuances. These naunces are easy to ignore if you're being disrupted - it all looks like same: video on you own website, on Vimeo, on YouTube, or TikTok is all video. Except that the progression introduces nuance.
 
+Other things to include:
 
-If we go back
+The speed of communication
 
+Number of people affected
 
-### Communication
+Number of people who feel like they should be the broadcaster vs audience (and this as a function of the size of the broadcsat network)
+
+Transience
+
+We begin to see interesting things happeneing as we compare how, for example, a theatre owner runs their business vs how a newspaper runs their business. This seems dumb but both are in very similar industries. Broadcast information out from a small number of people to a larger number of people. Make those people, who we call readers or audience, feel that the place they are or the thing they are reading from is where they will get the right kind of content.
+
+New imagine a world where only newspapers had existed forever. Nobody had ever dared put lots of people in a room. Perhaps there was a disease which prevent this, if that helps to make the idea real. Everyone reads the newspaper and only small groups of people convene. New suppose someone realises they can bring a large group of people together and share information much faster - for free in fact. This shift would see a complete undermining of part of the role of the newspaper but also the creation of new aspects of value such as togetherness and immediate feedback from the audience.
+
+As Broadcast shifts from one medium to another, exactly this phenomenon happens again and again. 
+
+// TODO: Get / add in Theory of information - the paper from c1950s.
+
+What question does this leave us with:
+
+As a simple act of broadcasting information moves from the physical world into virtual worlds, what it means to broadcast changes. These virtual worlds started with written language, copied written language, recorded sound, recorded video and so on but are now into digital worlds. [crappy sentence]
+
+How should we understand the impact on the underlying value when a human behaviour, such as broadcasting, shifts from one medium to another?
+
+How does that shift in value affect the business, business model and people around it?
+
+How does the permanence of the broadcast affect the value? As what is permanence, beyond just being a recording? Is permanence a kind of secondary value? What other kinds of secondary value are there?
+
+### #NEXT Communication
 
 _Networks of communication_
 
@@ -655,7 +695,7 @@ If it feels clunky and buggy now, just remember what the internet felt like in t
 
 The question we take into our exploration of music, is how to think about identity. Why is it that AI is challenging what it means to be human? Why is the question of identity coming up at all?
 
-### Devices (Smartphones, laptops)
+### #NEXT Devices (Smartphones, laptops)
 
 _Smartphone vs laptop/desktops_
 
